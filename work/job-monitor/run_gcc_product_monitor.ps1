@@ -76,8 +76,8 @@ $linkedInSearches = @(
 
 $broadDiscoveryQueries = @(
   [ordered]@{
-    name = "Data Engineer GCC/Product India"
-    query = '("Data Engineer" OR "Senior Data Engineer" OR "Data Platform Engineer") ("Bengaluru" OR "Hyderabad" OR "Kochi" OR "India Remote" OR "India") ("GCC" OR "global capability center" OR "product company" OR "careers" OR "apply")'
+    name = "Data Engineer GCC/Product/Services India"
+    query = '("Data Engineer" OR "Senior Data Engineer" OR "Data Platform Engineer") ("Bengaluru" OR "Hyderabad" OR "Kochi" OR "India Remote" OR "India") ("GCC" OR "global capability center" OR "product company" OR "service based company" OR "IT services" OR "consulting" OR "careers" OR "apply")'
     maxResults = 20
   },
   [ordered]@{
@@ -131,8 +131,8 @@ $broadDiscoveryQueries = @(
     maxResults = 25
   },
   [ordered]@{
-    name = "Data Engineering Product Companies India"
-    query = '("Data Engineer" OR "Data Platform Engineer") ("Databricks" OR "Spark" OR "Airflow") ("product company" OR "SaaS" OR "fintech") ("India" OR "Bengaluru" OR "Hyderabad")'
+    name = "Data Engineering Product and Services India"
+    query = '("Data Engineer" OR "Data Platform Engineer") ("Databricks" OR "Spark" OR "Airflow") ("product company" OR "SaaS" OR "fintech" OR "service based company" OR "IT services" OR "consulting") ("India" OR "Bengaluru" OR "Hyderabad")'
     maxResults = 25
   }
 )
@@ -325,6 +325,22 @@ $companies += @(
   @{ company = "Udemy"; classification = "Product company"; confidence = "Medium"; evidenceUrl = "https://about.udemy.com/careers/"; indiaLocations = @("India Remote"); sourceType = "greenhouse"; url = "https://boards-api.greenhouse.io/v1/boards/udemy/jobs?content=true" },
   @{ company = "Nielsen"; classification = "Product/GCC"; confidence = "Medium"; evidenceUrl = "https://jobs.lever.co/nielsen"; indiaLocations = @("Bengaluru", "Mumbai", "India"); sourceType = "lever"; url = "https://api.lever.co/v0/postings/nielsen?mode=json" }
 )
+
+$serviceCompanies = @(
+  @{ company = "Accenture"; classification = "Service company"; confidence = "High"; evidenceUrl = "https://www.accenture.com/in-en/careers"; indiaLocations = @("Bengaluru", "Hyderabad", "Pune", "Chennai", "Gurugram", "India"); sourceType = "discovery"; url = "https://www.accenture.com/in-en/careers/jobsearch" },
+  @{ company = "Cognizant"; classification = "Service company"; confidence = "High"; evidenceUrl = "https://careers.cognizant.com/in/en"; indiaLocations = @("Bengaluru", "Chennai", "Hyderabad", "Pune", "India"); sourceType = "discovery"; url = "https://careers.cognizant.com/in/en/search-results" },
+  @{ company = "Capgemini"; classification = "Service company"; confidence = "High"; evidenceUrl = "https://www.capgemini.com/in-en/careers/"; indiaLocations = @("Bengaluru", "Hyderabad", "Pune", "Mumbai", "India"); sourceType = "discovery"; url = "https://www.capgemini.com/in-en/careers/job-search/" },
+  @{ company = "Infosys"; classification = "Service company"; confidence = "High"; evidenceUrl = "https://www.infosys.com/careers.html"; indiaLocations = @("Bengaluru", "Hyderabad", "Mysuru", "Pune", "Chennai", "India"); sourceType = "discovery"; url = "https://www.infosys.com/careers/job-opportunities.html" },
+  @{ company = "TCS"; classification = "Service company"; confidence = "High"; evidenceUrl = "https://www.tcs.com/careers"; indiaLocations = @("Bengaluru", "Hyderabad", "Pune", "Chennai", "India"); sourceType = "discovery"; url = "https://ibegin.tcs.com/iBegin/jobs/search" },
+  @{ company = "Wipro"; classification = "Service company"; confidence = "High"; evidenceUrl = "https://careers.wipro.com/careers-home/"; indiaLocations = @("Bengaluru", "Hyderabad", "Pune", "Chennai", "India"); sourceType = "discovery"; url = "https://careers.wipro.com/jobs" },
+  @{ company = "HCLTech"; classification = "Service company"; confidence = "High"; evidenceUrl = "https://www.hcltech.com/careers"; indiaLocations = @("Noida", "Bengaluru", "Chennai", "Hyderabad", "India"); sourceType = "discovery"; url = "https://www.hcltech.com/careers/search-jobs" },
+  @{ company = "Tech Mahindra"; classification = "Service company"; confidence = "High"; evidenceUrl = "https://careers.techmahindra.com/"; indiaLocations = @("Bengaluru", "Pune", "Hyderabad", "India"); sourceType = "discovery"; url = "https://careers.techmahindra.com/search-jobs" },
+  @{ company = "LTIMindtree"; classification = "Service company"; confidence = "High"; evidenceUrl = "https://www.ltimindtree.com/careers/"; indiaLocations = @("Bengaluru", "Pune", "Mumbai", "India"); sourceType = "discovery"; url = "https://www.ltimindtree.com/careers/job-search/" },
+  @{ company = "EPAM"; classification = "Service company / Engineering"; confidence = "Medium"; evidenceUrl = "https://www.epam.com/careers"; indiaLocations = @("Hyderabad", "Bengaluru", "Pune", "India"); sourceType = "discovery"; url = "https://www.epam.com/careers/job-listings" },
+  @{ company = "Genpact"; classification = "Service company"; confidence = "High"; evidenceUrl = "https://www.genpact.com/careers"; indiaLocations = @("Gurugram", "Hyderabad", "Bengaluru", "India"); sourceType = "discovery"; url = "https://genpact.wd5.myworkdayjobs.com/GenpactCareers" }
+)
+
+$companies += $serviceCompanies
 
 $companies += @(
   @{ company = "Walmart Global Tech"; classification = "GCC / Product engineering"; confidence = "High"; evidenceUrl = "https://tech.walmart.com/"; indiaLocations = @("Bengaluru", "Chennai", "India"); sourceType = "workday"; url = "https://walmart.wd5.myworkdayjobs.com/wday/cxs/walmart/WalmartExternal/jobs"; publicBaseUrl = "https://walmart.wd5.myworkdayjobs.com/WalmartExternal" },
@@ -1126,9 +1142,9 @@ $feedJobs = @($feedSourceJobs | ForEach-Object {
 
 $feed = [ordered]@{
   generatedAt = $now
-  sourceAutomation = "India GCC Product Data Job Monitor"
+  sourceAutomation = "India Product and Service Data Job Monitor"
   sourceLanes = @(
-    [ordered]@{ name = "Company ATS Feed"; status = "Automated"; sources = @("Greenhouse", "Lever", "Workday", "SmartRecruiters") },
+    [ordered]@{ name = "Company ATS Feed"; status = "Automated"; sources = @("Greenhouse", "Lever", "Workday", "SmartRecruiters", "Service company discovery") },
     [ordered]@{ name = "Broad Discovery Feed"; status = "Legacy ntfy-style review lane"; sources = @("Bing RSS", "Bing HTML", "Google CSE when configured", "LinkedIn public job result pages", "public career pages", "Naukri", "Indeed", "Foundit", "Instahyre", "Hirist") }
   )
   broadDiscoveryQueries = $broadDiscoveryQueries
@@ -1145,7 +1161,7 @@ $feedHistory = [ordered]@{ updatedAt = $now; jobs = $feedJobs }
 $feedHistory | ConvertTo-Json -Depth 8 | Set-Content -Encoding UTF8 $feedHistoryPath
 $linkedInFeed = [ordered]@{
   generatedAt = $now
-  sourceAutomation = "India GCC Product Data Job Monitor"
+  sourceAutomation = "India Product and Service Data Job Monitor"
   sourceLanes = $feed.sourceLanes
   linkedInSearches = $linkedInSearches
   broadDiscoveryQueries = $broadDiscoveryQueries
