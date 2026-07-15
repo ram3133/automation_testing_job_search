@@ -1229,6 +1229,169 @@
                           "sourceType":  "lever"
                       },
                       {
+                          "company":  "Accenture",
+                          "classification":  "Service company",
+                          "confidence":  "High",
+                          "evidenceUrl":  "https://www.accenture.com/in-en/careers",
+                          "indiaLocations":  [
+                                                 "Bengaluru",
+                                                 "Hyderabad",
+                                                 "Pune",
+                                                 "Chennai",
+                                                 "Gurugram",
+                                                 "India"
+                                             ],
+                          "discoveryDate":  "2026-07-08",
+                          "sourceType":  "discovery"
+                      },
+                      {
+                          "company":  "Cognizant",
+                          "classification":  "Service company",
+                          "confidence":  "High",
+                          "evidenceUrl":  "https://careers.cognizant.com/in/en",
+                          "indiaLocations":  [
+                                                 "Bengaluru",
+                                                 "Chennai",
+                                                 "Hyderabad",
+                                                 "Pune",
+                                                 "India"
+                                             ],
+                          "discoveryDate":  "2026-07-08",
+                          "sourceType":  "discovery"
+                      },
+                      {
+                          "company":  "Capgemini",
+                          "classification":  "Service company",
+                          "confidence":  "High",
+                          "evidenceUrl":  "https://www.capgemini.com/in-en/careers/",
+                          "indiaLocations":  [
+                                                 "Bengaluru",
+                                                 "Hyderabad",
+                                                 "Pune",
+                                                 "Mumbai",
+                                                 "India"
+                                             ],
+                          "discoveryDate":  "2026-07-08",
+                          "sourceType":  "discovery"
+                      },
+                      {
+                          "company":  "Infosys",
+                          "classification":  "Service company",
+                          "confidence":  "High",
+                          "evidenceUrl":  "https://www.infosys.com/careers.html",
+                          "indiaLocations":  [
+                                                 "Bengaluru",
+                                                 "Hyderabad",
+                                                 "Mysuru",
+                                                 "Pune",
+                                                 "Chennai",
+                                                 "India"
+                                             ],
+                          "discoveryDate":  "2026-07-08",
+                          "sourceType":  "discovery"
+                      },
+                      {
+                          "company":  "TCS",
+                          "classification":  "Service company",
+                          "confidence":  "High",
+                          "evidenceUrl":  "https://www.tcs.com/careers",
+                          "indiaLocations":  [
+                                                 "Bengaluru",
+                                                 "Hyderabad",
+                                                 "Pune",
+                                                 "Chennai",
+                                                 "India"
+                                             ],
+                          "discoveryDate":  "2026-07-08",
+                          "sourceType":  "discovery"
+                      },
+                      {
+                          "company":  "Wipro",
+                          "classification":  "Service company",
+                          "confidence":  "High",
+                          "evidenceUrl":  "https://careers.wipro.com/careers-home/",
+                          "indiaLocations":  [
+                                                 "Bengaluru",
+                                                 "Hyderabad",
+                                                 "Pune",
+                                                 "Chennai",
+                                                 "India"
+                                             ],
+                          "discoveryDate":  "2026-07-08",
+                          "sourceType":  "discovery"
+                      },
+                      {
+                          "company":  "HCLTech",
+                          "classification":  "Service company",
+                          "confidence":  "High",
+                          "evidenceUrl":  "https://www.hcltech.com/careers",
+                          "indiaLocations":  [
+                                                 "Noida",
+                                                 "Bengaluru",
+                                                 "Chennai",
+                                                 "Hyderabad",
+                                                 "India"
+                                             ],
+                          "discoveryDate":  "2026-07-08",
+                          "sourceType":  "discovery"
+                      },
+                      {
+                          "company":  "Tech Mahindra",
+                          "classification":  "Service company",
+                          "confidence":  "High",
+                          "evidenceUrl":  "https://careers.techmahindra.com/",
+                          "indiaLocations":  [
+                                                 "Bengaluru",
+                                                 "Pune",
+                                                 "Hyderabad",
+                                                 "India"
+                                             ],
+                          "discoveryDate":  "2026-07-08",
+                          "sourceType":  "discovery"
+                      },
+                      {
+                          "company":  "LTIMindtree",
+                          "classification":  "Service company",
+                          "confidence":  "High",
+                          "evidenceUrl":  "https://www.ltimindtree.com/careers/",
+                          "indiaLocations":  [
+                                                 "Bengaluru",
+                                                 "Pune",
+                                                 "Mumbai",
+                                                 "India"
+                                             ],
+                          "discoveryDate":  "2026-07-08",
+                          "sourceType":  "discovery"
+                      },
+                      {
+                          "company":  "EPAM",
+                          "classification":  "Service company / Engineering",
+                          "confidence":  "Medium",
+                          "evidenceUrl":  "https://www.epam.com/careers",
+                          "indiaLocations":  [
+                                                 "Hyderabad",
+                                                 "Bengaluru",
+                                                 "Pune",
+                                                 "India"
+                                             ],
+                          "discoveryDate":  "2026-07-08",
+                          "sourceType":  "discovery"
+                      },
+                      {
+                          "company":  "Genpact",
+                          "classification":  "Service company",
+                          "confidence":  "High",
+                          "evidenceUrl":  "https://www.genpact.com/careers",
+                          "indiaLocations":  [
+                                                 "Gurugram",
+                                                 "Hyderabad",
+                                                 "Bengaluru",
+                                                 "India"
+                                             ],
+                          "discoveryDate":  "2026-07-08",
+                          "sourceType":  "discovery"
+                      },
+                      {
                           "company":  "Walmart Global Tech",
                           "classification":  "GCC / Product engineering",
                           "confidence":  "High",
@@ -1345,5 +1508,5 @@
                           "sourceType":  "smartrecruiters"
                       }
                   ],
-    "generatedAt":  "2026-07-15T17:51:52"
+    "generatedAt":  "2026-07-15T18:25:49"
 }
