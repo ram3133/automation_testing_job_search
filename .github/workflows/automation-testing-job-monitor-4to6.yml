@@ -1,0 +1,66 @@
+name: Automation Testing Job Monitor 4-6 Years
+
+on:
+  schedule:
+    - cron: "*/30 * * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: automation-testing-job-monitor-4to6
+  cancel-in-progress: false
+
+jobs:
+  monitor:
+    name: Run automation testing ntfy monitor
+    runs-on: windows-latest
+    timeout-minutes: 25
+    env:
+      GOOGLE_API_KEY: ${{ secrets.GOOGLE_API_KEY }}
+      GOOGLE_CSE_ID: ${{ secrets.GOOGLE_CSE_ID }}
+      ROLEPILOT_PROFILE: "automation-testing"
+      ROLEPILOT_MIN_YEARS: "4"
+      ROLEPILOT_MAX_YEARS: "6"
+      ROLEPILOT_NTFY_TOPIC: "https://ntfy.sh/automation_testing"
+      ROLEPILOT_WRITE_APP_OUTPUTS: "false"
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Run automation testing monitor
+        shell: powershell
+        run: |
+          $ErrorActionPreference = "Stop"
+          powershell.exe -NoProfile -ExecutionPolicy Bypass -File "work\job-monitor\run_automation_testing_monitor_4to6.ps1"
+
+      - name: Commit state changes
+        id: commit
+        shell: powershell
+        run: |
+          $ErrorActionPreference = "Stop"
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          $paths = @(
+            "work/job-monitor/gcc-product-companies.json",
+            "work/job-monitor/seen-jobs.json",
+            "work/job-monitor/recent-feed-jobs.json"
+          )
+
+          git add -- $paths
+
+          git diff --cached --quiet
+          if ($LASTEXITCODE -eq 0) {
+            "changed=false" >> $env:GITHUB_OUTPUT
+            "No state changes to commit."
+            exit 0
+          }
+
+          git commit -m "Refresh automation testing ntfy monitor state"
+          git push
+          "changed=true" >> $env:GITHUB_OUTPUT
