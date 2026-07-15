@@ -371,27 +371,27 @@ switch ($profile) {
     $profileLabel = "Backend Engineering"
     $profileMinYears = if ($env:ROLEPILOT_MIN_YEARS) { [int]$env:ROLEPILOT_MIN_YEARS } else { 4 }
     $profileMaxYears = if ($env:ROLEPILOT_MAX_YEARS) { [int]$env:ROLEPILOT_MAX_YEARS } else { 7 }
-    $rolePattern = 'backend engineer|backend developer|software engineer backend|backend software engineer|platform engineer|api engineer|server side engineer|server-side engineer|golang engineer|java engineer|node\.?js engineer|distributed systems engineer'
-    $stackPattern = 'java|spring boot|microservices|rest api|restful|grpc|kafka|redis|postgres|mysql|mongodb|docker|kubernetes|aws|azure|golang|node\.?js|typescript|python'
-    $rejectPattern = 'intern|principal|director|manager|architect|training course|certification|question paper|walkin|walk-in|bpo|support|customer support|sales|account executive|front end|frontend|ui engineer|ux'
-    $roleBoostKeywords = @("backend engineer","backend developer","software engineer backend","backend software engineer","platform engineer","api engineer","golang engineer","java engineer","node.js engineer")
-    $stackBoostKeywords = @("java","spring boot","microservices","rest api","grpc","kafka","redis","postgres","mysql","mongodb")
-    $platformBoostKeywords = @("distributed systems","system design","api development","service oriented","event driven")
-    $cloudBoostKeywords = @("docker","kubernetes","aws","azure","ci/cd","gitlab","github actions")
+    $rolePattern = 'backend engineer|backend developer|software engineer backend|backend software engineer|platform engineer|api engineer|server side engineer|server-side engineer|java engineer|spring boot engineer|distributed systems engineer'
+    $stackPattern = 'java|core java|spring boot|rest api|restful|microservices|sql|junit|mockito|jdbc|postman|swagger|sonarqube|git|copilot|kafka|redis|postgres|mysql|mongodb|docker|kubernetes|aws|azure|ci/cd|maven|gradle'
+    $rejectPattern = 'intern|principal|director|manager|architect|training course|certification|question paper|walkin|walk-in|bpo|support|customer support|sales|account executive|front end|frontend|ui engineer|ux|manual testing|qa automation|selenium'
+    $roleBoostKeywords = @("backend engineer","backend developer","software engineer backend","backend software engineer","platform engineer","api engineer","java engineer","spring boot engineer","distributed systems engineer")
+    $stackBoostKeywords = @("java","core java","spring boot","rest api","microservices","sql","junit","mockito","jdbc","postman","swagger","sonarqube","git","copilot")
+    $platformBoostKeywords = @("rest apis","api development","service oriented","event driven","backend systems")
+    $cloudBoostKeywords = @("docker","kubernetes","aws","azure","ci/cd","maven","gradle","sonarqube")
     $locationPattern = 'bengaluru|bangalore|hyderabad|kochi|pune|chennai|gurugram|noida|mumbai|india|india remote|remote india'
     $linkedInSearches = @(
-      [ordered]@{ name = "Bengaluru Backend Engineer"; role = "Backend Engineer"; location = "Bengaluru, Karnataka, India"; url = "https://www.linkedin.com/jobs/search/?keywords=Backend%20Engineer&location=Bengaluru%2C%20Karnataka%2C%20India&f_E=$profileMinYears&f_TPR=r604800"; cadence = "Daily"; lane = "LinkedIn Discovery" },
-      [ordered]@{ name = "Bengaluru Java Backend"; role = "Java Backend Engineer"; location = "Bengaluru, Karnataka, India"; url = "https://www.linkedin.com/jobs/search/?keywords=Java%20Backend%20Engineer&location=Bengaluru%2C%20Karnataka%2C%20India&f_E=$profileMinYears&f_TPR=r604800"; cadence = "Daily"; lane = "LinkedIn Discovery" },
-      [ordered]@{ name = "Hyderabad Backend Engineer"; role = "Backend Engineer"; location = "Hyderabad, Telangana, India"; url = "https://www.linkedin.com/jobs/search/?keywords=Backend%20Engineer&location=Hyderabad%2C%20Telangana%2C%20India&f_E=$profileMinYears&f_TPR=r604800"; cadence = "Daily"; lane = "LinkedIn Discovery" },
-      [ordered]@{ name = "Hyderabad Golang Backend"; role = "Golang Backend Engineer"; location = "Hyderabad, Telangana, India"; url = "https://www.linkedin.com/jobs/search/?keywords=Golang%20Backend%20Engineer&location=Hyderabad%2C%20Telangana%2C%20India&f_E=$profileMinYears&f_TPR=r604800"; cadence = "Daily"; lane = "LinkedIn Discovery" },
-      [ordered]@{ name = "India Remote Backend"; role = "Backend Engineer"; location = "India Remote"; url = "https://www.linkedin.com/jobs/search/?keywords=Backend%20Engineer&location=India&f_E=$profileMinYears&f_TPR=r604800&f_WT=2%2C3"; cadence = "Daily"; lane = "LinkedIn Discovery" }
+      [ordered]@{ name = "Bengaluru Java Spring Boot"; role = "Java Backend Engineer"; location = "Bengaluru, Karnataka, India"; url = "https://www.linkedin.com/jobs/search/?keywords=Java%20Spring%20Boot%20Backend&location=Bengaluru%2C%20Karnataka%2C%20India&f_E=$profileMinYears&f_TPR=r604800"; cadence = "Daily"; lane = "LinkedIn Discovery" },
+      [ordered]@{ name = "Bengaluru Microservices"; role = "Backend Engineer"; location = "Bengaluru, Karnataka, India"; url = "https://www.linkedin.com/jobs/search/?keywords=Microservices%20Backend%20Engineer&location=Bengaluru%2C%20Karnataka%2C%20India&f_E=$profileMinYears&f_TPR=r604800"; cadence = "Daily"; lane = "LinkedIn Discovery" },
+      [ordered]@{ name = "Hyderabad Java Backend"; role = "Java Backend Engineer"; location = "Hyderabad, Telangana, India"; url = "https://www.linkedin.com/jobs/search/?keywords=Java%20Backend%20Engineer%20Spring%20Boot&location=Hyderabad%2C%20Telangana%2C%20India&f_E=$profileMinYears&f_TPR=r604800"; cadence = "Daily"; lane = "LinkedIn Discovery" },
+      [ordered]@{ name = "Hyderabad API Microservices"; role = "Backend Developer"; location = "Hyderabad, Telangana, India"; url = "https://www.linkedin.com/jobs/search/?keywords=API%20Microservices%20Backend%20Developer&location=Hyderabad%2C%20Telangana%2C%20India&f_E=$profileMinYears&f_TPR=r604800"; cadence = "Daily"; lane = "LinkedIn Discovery" },
+      [ordered]@{ name = "India Remote Java Backend"; role = "Backend Engineer"; location = "India Remote"; url = "https://www.linkedin.com/jobs/search/?keywords=Java%20Backend%20Engineer%20SQL%20Microservices&location=India&f_E=$profileMinYears&f_TPR=r604800&f_WT=2%2C3"; cadence = "Daily"; lane = "LinkedIn Discovery" }
     )
     $broadDiscoveryQueries = @(
-      [ordered]@{ name = "Backend Engineering India"; query = '("Backend Engineer" OR "Backend Developer" OR "Software Engineer Backend" OR "Platform Engineer" OR "API Engineer") ("Bengaluru" OR "Hyderabad" OR "Kochi" OR "India Remote" OR "India") (apply OR careers OR jobs OR hiring)'; maxResults = 25 },
-      [ordered]@{ name = "Backend Java Golang India"; query = '("Java Backend" OR "Golang Backend" OR "Node.js Backend" OR "Distributed Systems Engineer") ("Bengaluru" OR "Hyderabad" OR "India") (job OR apply OR careers)'; maxResults = 25 },
-      [ordered]@{ name = "Backend GCC India"; query = '("Backend Engineer" OR "Backend Software Engineer" OR "Platform Engineer") ("GCC" OR "product company" OR "careers" OR "apply") ("India" OR "Bengaluru" OR "Hyderabad")'; maxResults = 20 },
-      [ordered]@{ name = "Backend Direct ATS India"; query = '("Backend Engineer" OR "Backend Developer" OR "Platform Engineer" OR "API Engineer") ("India" OR "Bengaluru" OR "Hyderabad" OR "Kochi" OR "Pune" OR "Chennai") (greenhouse OR lever OR workdayjobs OR smartrecruiters)'; maxResults = 25 },
-      [ordered]@{ name = "Backend Recent Posts India"; query = 'site:linkedin.com/jobs/view ("Backend Engineer" OR "Backend Developer" OR "Platform Engineer" OR "API Engineer") ("India" OR "Bengaluru" OR "Hyderabad" OR "Remote")'; maxResults = 25 }
+      [ordered]@{ name = "Backend Engineering India"; query = '("Backend Engineer" OR "Backend Developer" OR "Software Engineer Backend" OR "Platform Engineer" OR "API Engineer" OR "Java Backend Engineer") ("Bengaluru" OR "Hyderabad" OR "Kochi" OR "India Remote" OR "India") (apply OR careers OR jobs OR hiring)'; maxResults = 25 },
+      [ordered]@{ name = "Backend Java Spring India"; query = '("Java Backend" OR "Spring Boot" OR "Microservices" OR "Distributed Systems Engineer" OR "REST API" OR "API Testing" OR "Core Java") ("Bengaluru" OR "Hyderabad" OR "India") (job OR apply OR careers)'; maxResults = 25 },
+      [ordered]@{ name = "Backend GCC India"; query = '("Backend Engineer" OR "Backend Software Engineer" OR "Platform Engineer" OR "Core Java Engineer" OR "Java Backend Engineer") ("GCC" OR "product company" OR "careers" OR "apply") ("India" OR "Bengaluru" OR "Hyderabad")'; maxResults = 20 },
+      [ordered]@{ name = "Backend Direct ATS India"; query = '("Backend Engineer" OR "Backend Developer" OR "Platform Engineer" OR "API Engineer" OR "Core Java Engineer" OR "Java Backend Engineer") ("India" OR "Bengaluru" OR "Hyderabad" OR "Kochi" OR "Pune" OR "Chennai") (greenhouse OR lever OR workdayjobs OR smartrecruiters)'; maxResults = 25 },
+      [ordered]@{ name = "Backend Recent Posts India"; query = 'site:linkedin.com/jobs/view ("Backend Engineer" OR "Backend Developer" OR "Platform Engineer" OR "API Engineer" OR "Core Java Engineer" OR "Java Backend Engineer") ("India" OR "Bengaluru" OR "Hyderabad" OR "Remote")'; maxResults = 25 }
     )
   }
   default {
@@ -1135,7 +1135,9 @@ $feed = [ordered]@{
   jobs = $feedJobs
 }
 $feedJson = $feed | ConvertTo-Json -Depth 8
-Set-Content -Encoding UTF8 -Path $feedPath -Value ("window.GCC_PRODUCT_JOB_FEED = " + $feedJson + ";")
+if ($writeAppOutputs) {
+  Set-Content -Encoding UTF8 -Path $feedPath -Value ("window.GCC_PRODUCT_JOB_FEED = " + $feedJson + ";")
+}
 if ($writeAppOutputs -and $appFeedPath) {
   Set-Content -Encoding UTF8 -Path $appFeedPath -Value ("window.GCC_PRODUCT_JOB_FEED = " + $feedJson + ";")
 }
@@ -1150,7 +1152,9 @@ $linkedInFeed = [ordered]@{
   linkedInPolicy = $feed.linkedInPolicy
 }
 $linkedInFeedJson = $linkedInFeed | ConvertTo-Json -Depth 8
-Set-Content -Encoding UTF8 -Path $linkedInFeedPath -Value ("window.LINKEDIN_DISCOVERY_FEED = " + $linkedInFeedJson + ";")
+if ($writeAppOutputs) {
+  Set-Content -Encoding UTF8 -Path $linkedInFeedPath -Value ("window.LINKEDIN_DISCOVERY_FEED = " + $linkedInFeedJson + ";")
+}
 if ($writeAppOutputs -and $appLinkedInFeedPath) {
   Set-Content -Encoding UTF8 -Path $appLinkedInFeedPath -Value ("window.LINKEDIN_DISCOVERY_FEED = " + $linkedInFeedJson + ";")
 }
