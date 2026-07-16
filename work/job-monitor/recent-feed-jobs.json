@@ -1,5 +1,5 @@
 ﻿{
-    "updatedAt":  "2026-07-16T11:57:36+00:00",
+    "updatedAt":  "2026-07-16T14:29:15+00:00",
     "jobs":  [
                  {
                      "id":  "linkedin:4438422648",
@@ -7,15 +7,12 @@
                      "role":  "ETL Tester",
                      "location":  "Bangalore Urban, Karnataka, India",
                      "link":  "https://www.linkedin.com/jobs/view/etl-tester-at-virtusa-4438422648/",
-                     "postedDate":  "15 hours ago",
+                     "postedDate":  "17 hours ago",
                      "fit":  100,
-                     "fitReason":  "LinkedIn public India discovery match from Bengaluru Java Selenium; verify JD, company, experience, and salary before applying",
+                     "fitReason":  "LinkedIn public India discovery match from Bengaluru SDET; verify JD, company, experience, and salary before applying",
                      "keywords":  [
-                                      "automation engineer",
-                                      "automation",
-                                      "tester",
-                                      "selenium",
-                                      "java"
+                                      "sdet",
+                                      "tester"
                                   ],
                      "applyType":  "External Apply",
                      "classificationConfidence":  "Discovery",
