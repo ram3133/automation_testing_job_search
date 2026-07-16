@@ -1,5 +1,5 @@
 ﻿{
-    "updatedAt":  "2026-07-16T21:29:55+00:00",
+    "updatedAt":  "2026-07-16T23:16:24+00:00",
     "jobs":  [
                  {
                      "id":  "linkedin:4440661475",
@@ -32,13 +32,10 @@
                      "link":  "https://www.linkedin.com/jobs/view/etl-tester-at-virtusa-4438422648/",
                      "postedDate":  "1 day ago",
                      "fit":  100,
-                     "fitReason":  "LinkedIn public India discovery match from Bengaluru Java Selenium; verify JD, company, experience, and salary before applying",
+                     "fitReason":  "LinkedIn public India discovery match from Bengaluru SDET; verify JD, company, experience, and salary before applying",
                      "keywords":  [
-                                      "automation engineer",
-                                      "automation",
-                                      "tester",
-                                      "selenium",
-                                      "java"
+                                      "sdet",
+                                      "tester"
                                   ],
                      "applyType":  "External Apply",
                      "classificationConfidence":  "Discovery",
