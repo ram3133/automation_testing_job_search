@@ -1,18 +1,44 @@
 ﻿{
-    "updatedAt":  "2026-07-16T17:43:59+00:00",
+    "updatedAt":  "2026-07-16T19:38:32+00:00",
     "jobs":  [
+                 {
+                     "id":  "linkedin:4440661475",
+                     "company":  " Raah Techservices ",
+                     "role":  "Senior ETL QA Automation Engineer | 6+ Years",
+                     "location":  "India",
+                     "link":  "https://www.linkedin.com/jobs/view/senior-etl-qa-automation-engineer-6%2B-years-at-raah-techservices-4440661475/",
+                     "postedDate":  "11 hours ago",
+                     "fit":  100,
+                     "fitReason":  "LinkedIn public India discovery match from India Remote QA Java; verify JD, company, experience, and salary before applying",
+                     "keywords":  [
+                                      "qa automation",
+                                      "automation engineer",
+                                      "automation",
+                                      "qa",
+                                      "java"
+                                  ],
+                     "applyType":  "External Apply",
+                     "classificationConfidence":  "Discovery",
+                     "notes":  "LinkedIn public result restored to match the previous ntfy alert style. Verify before applying.",
+                     "azureScore":  45,
+                     "databricksScore":  45,
+                     "modelingScore":  55
+                 },
                  {
                      "id":  "linkedin:4438422648",
                      "company":  " Virtusa ",
                      "role":  "ETL Tester",
                      "location":  "Bangalore Urban, Karnataka, India",
                      "link":  "https://www.linkedin.com/jobs/view/etl-tester-at-virtusa-4438422648/",
-                     "postedDate":  "17 hours ago",
+                     "postedDate":  "22 hours ago",
                      "fit":  100,
-                     "fitReason":  "LinkedIn public India discovery match from Bengaluru SDET; verify JD, company, experience, and salary before applying",
+                     "fitReason":  "LinkedIn public India discovery match from Bengaluru Java Selenium; verify JD, company, experience, and salary before applying",
                      "keywords":  [
-                                      "sdet",
-                                      "tester"
+                                      "automation engineer",
+                                      "automation",
+                                      "tester",
+                                      "selenium",
+                                      "java"
                                   ],
                      "applyType":  "External Apply",
                      "classificationConfidence":  "Discovery",
