@@ -2,7 +2,7 @@ name: Automation Testing Job Monitor 4-6 Years
 
 on:
   schedule:
-    - cron: "0 */2 * * *"
+    - cron: "23 */2 * * *"
   workflow_dispatch:
 
 permissions:
