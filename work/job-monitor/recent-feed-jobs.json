@@ -1,5 +1,5 @@
 ﻿{
-    "updatedAt":  "2026-07-17T03:45:02+00:00",
+    "updatedAt":  "2026-07-17T06:33:14+00:00",
     "jobs":  [
                  {
                      "id":  "linkedin:4440661475",
@@ -7,7 +7,7 @@
                      "role":  "Senior ETL QA Automation Engineer | 6+ Years",
                      "location":  "India",
                      "link":  "https://www.linkedin.com/jobs/view/senior-etl-qa-automation-engineer-6%2B-years-at-raah-techservices-4440661475/",
-                     "postedDate":  "19 hours ago",
+                     "postedDate":  "22 hours ago",
                      "fit":  100,
                      "fitReason":  "LinkedIn public India discovery match from India Remote QA Java; verify JD, company, experience, and salary before applying",
                      "keywords":  [
@@ -32,10 +32,13 @@
                      "link":  "https://www.linkedin.com/jobs/view/etl-tester-at-virtusa-4438422648/",
                      "postedDate":  "1 day ago",
                      "fit":  100,
-                     "fitReason":  "LinkedIn public India discovery match from Bengaluru SDET; verify JD, company, experience, and salary before applying",
+                     "fitReason":  "LinkedIn public India discovery match from Bengaluru Java Selenium; verify JD, company, experience, and salary before applying",
                      "keywords":  [
-                                      "sdet",
-                                      "tester"
+                                      "automation engineer",
+                                      "automation",
+                                      "tester",
+                                      "selenium",
+                                      "java"
                                   ],
                      "applyType":  "External Apply",
                      "classificationConfidence":  "Discovery",
