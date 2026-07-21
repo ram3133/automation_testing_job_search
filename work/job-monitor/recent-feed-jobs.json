@@ -1,5 +1,5 @@
 ﻿{
-    "updatedAt":  "2026-07-21T14:31:44+00:00",
+    "updatedAt":  "2026-07-21T17:49:59+00:00",
     "jobs":  [
                  {
                      "id":  "linkedin:4440661475",
@@ -36,6 +36,29 @@
                      "keywords":  [
                                       "sdet",
                                       "tester"
+                                  ],
+                     "applyType":  "External Apply",
+                     "classificationConfidence":  "Discovery",
+                     "notes":  "LinkedIn public result restored to match the previous ntfy alert style. Verify before applying.",
+                     "azureScore":  45,
+                     "databricksScore":  45,
+                     "modelingScore":  55
+                 },
+                 {
+                     "id":  "linkedin:4434727409",
+                     "company":  " ORBCOMM ",
+                     "role":  "ETL Testing Engineer",
+                     "location":  "Hyderabad, Telangana, India",
+                     "link":  "https://www.linkedin.com/jobs/view/etl-testing-engineer-at-orbcomm-4434727409/",
+                     "postedDate":  "2 hours ago",
+                     "fit":  100,
+                     "fitReason":  "LinkedIn public India discovery match from India Remote QA Java; verify JD, company, experience, and salary before applying",
+                     "keywords":  [
+                                      "qa automation",
+                                      "automation engineer",
+                                      "automation",
+                                      "qa",
+                                      "java"
                                   ],
                      "applyType":  "External Apply",
                      "classificationConfidence":  "Discovery",
