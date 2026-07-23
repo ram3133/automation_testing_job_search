@@ -1,5 +1,5 @@
 ﻿{
-    "updatedAt":  "2026-07-23T10:37:14+00:00",
+    "updatedAt":  "2026-07-23T14:38:56+00:00",
     "jobs":  [
                  {
                      "id":  "linkedin:4438422648",
@@ -45,6 +45,30 @@
                      "modelingScore":  55
                  },
                  {
+                     "id":  "linkedin:4442996650",
+                     "company":  " HYrEzy Tech Solutions ",
+                     "role":  "QA Automation Engineer - DBT \u0026 ETL Testing - Python and Pytest",
+                     "location":  "Hyderabad, Telangana, India",
+                     "link":  "https://www.linkedin.com/jobs/view/qa-automation-engineer-dbt-etl-testing-python-and-pytest-at-hyrezy-tech-solutions-4442996650/",
+                     "postedDate":  "1 day ago",
+                     "fit":  100,
+                     "fitReason":  "LinkedIn public India discovery match from Hyderabad Java QA; verify JD, company, experience, and salary before applying",
+                     "keywords":  [
+                                      "qa automation",
+                                      "automation engineer",
+                                      "automation",
+                                      "qa",
+                                      "java",
+                                      "python"
+                                  ],
+                     "applyType":  "External Apply",
+                     "classificationConfidence":  "Discovery",
+                     "notes":  "LinkedIn public result restored to match the previous ntfy alert style. Verify before applying.",
+                     "azureScore":  45,
+                     "databricksScore":  45,
+                     "modelingScore":  55
+                 },
+                 {
                      "id":  "linkedin:4434727409",
                      "company":  " ORBCOMM ",
                      "role":  "ETL Testing Engineer",
@@ -59,30 +83,6 @@
                                       "automation",
                                       "qa",
                                       "java"
-                                  ],
-                     "applyType":  "External Apply",
-                     "classificationConfidence":  "Discovery",
-                     "notes":  "LinkedIn public result restored to match the previous ntfy alert style. Verify before applying.",
-                     "azureScore":  45,
-                     "databricksScore":  45,
-                     "modelingScore":  55
-                 },
-                 {
-                     "id":  "linkedin:4442996650",
-                     "company":  " HYrEzy Tech Solutions ",
-                     "role":  "QA Automation Engineer - DBT \u0026 ETL Testing - Python and Pytest",
-                     "location":  "Hyderabad, Telangana, India",
-                     "link":  "https://www.linkedin.com/jobs/view/qa-automation-engineer-dbt-etl-testing-python-and-pytest-at-hyrezy-tech-solutions-4442996650/",
-                     "postedDate":  "23 hours ago",
-                     "fit":  100,
-                     "fitReason":  "LinkedIn public India discovery match from Hyderabad Java QA; verify JD, company, experience, and salary before applying",
-                     "keywords":  [
-                                      "qa automation",
-                                      "automation engineer",
-                                      "automation",
-                                      "qa",
-                                      "java",
-                                      "python"
                                   ],
                      "applyType":  "External Apply",
                      "classificationConfidence":  "Discovery",
