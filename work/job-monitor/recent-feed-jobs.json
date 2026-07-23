@@ -1,5 +1,5 @@
 ﻿{
-    "updatedAt":  "2026-07-23T17:52:49+00:00",
+    "updatedAt":  "2026-07-23T19:51:44+00:00",
     "jobs":  [
                  {
                      "id":  "linkedin:4438422648",
@@ -45,29 +45,6 @@
                      "modelingScore":  55
                  },
                  {
-                     "id":  "linkedin:4434727409",
-                     "company":  " ORBCOMM ",
-                     "role":  "ETL Testing Engineer",
-                     "location":  "Hyderabad, Telangana, India",
-                     "link":  "https://www.linkedin.com/jobs/view/etl-testing-engineer-at-orbcomm-4434727409/",
-                     "postedDate":  "1 day ago",
-                     "fit":  100,
-                     "fitReason":  "LinkedIn public India discovery match from India Remote QA Java; verify JD, company, experience, and salary before applying",
-                     "keywords":  [
-                                      "qa automation",
-                                      "automation engineer",
-                                      "automation",
-                                      "qa",
-                                      "java"
-                                  ],
-                     "applyType":  "External Apply",
-                     "classificationConfidence":  "Discovery",
-                     "notes":  "LinkedIn public result restored to match the previous ntfy alert style. Verify before applying.",
-                     "azureScore":  45,
-                     "databricksScore":  45,
-                     "modelingScore":  55
-                 },
-                 {
                      "id":  "linkedin:4442996650",
                      "company":  " HYrEzy Tech Solutions ",
                      "role":  "QA Automation Engineer - DBT \u0026 ETL Testing - Python and Pytest",
@@ -83,6 +60,29 @@
                                       "qa",
                                       "java",
                                       "python"
+                                  ],
+                     "applyType":  "External Apply",
+                     "classificationConfidence":  "Discovery",
+                     "notes":  "LinkedIn public result restored to match the previous ntfy alert style. Verify before applying.",
+                     "azureScore":  45,
+                     "databricksScore":  45,
+                     "modelingScore":  55
+                 },
+                 {
+                     "id":  "linkedin:4434727409",
+                     "company":  " ORBCOMM ",
+                     "role":  "ETL Testing Engineer",
+                     "location":  "Hyderabad, Telangana, India",
+                     "link":  "https://www.linkedin.com/jobs/view/etl-testing-engineer-at-orbcomm-4434727409/",
+                     "postedDate":  "2 days ago",
+                     "fit":  100,
+                     "fitReason":  "LinkedIn public India discovery match from India Remote QA Java; verify JD, company, experience, and salary before applying",
+                     "keywords":  [
+                                      "qa automation",
+                                      "automation engineer",
+                                      "automation",
+                                      "qa",
+                                      "java"
                                   ],
                      "applyType":  "External Apply",
                      "classificationConfidence":  "Discovery",
