@@ -1,5 +1,5 @@
 ﻿{
-    "updatedAt":  "2026-07-28T03:43:46+00:00",
+    "updatedAt":  "2026-07-28T06:47:14+00:00",
     "jobs":  [
                  {
                      "id":  "linkedin:4438422648",
@@ -60,6 +60,29 @@
                                       "qa",
                                       "java",
                                       "python"
+                                  ],
+                     "applyType":  "External Apply",
+                     "classificationConfidence":  "Discovery",
+                     "notes":  "LinkedIn public result restored to match the previous ntfy alert style. Verify before applying.",
+                     "azureScore":  45,
+                     "databricksScore":  45,
+                     "modelingScore":  55
+                 },
+                 {
+                     "id":  "linkedin:4441516567",
+                     "company":  " EduRun Group ",
+                     "role":  "QA Data Engineer",
+                     "location":  "Hyderabad, Telangana, India",
+                     "link":  "https://www.linkedin.com/jobs/view/qa-data-engineer-at-edurun-group-4441516567/",
+                     "postedDate":  "1 hour ago",
+                     "fit":  100,
+                     "fitReason":  "LinkedIn public India discovery match from Hyderabad Java QA; verify JD, company, experience, and salary before applying",
+                     "keywords":  [
+                                      "qa automation",
+                                      "automation engineer",
+                                      "automation",
+                                      "qa",
+                                      "java"
                                   ],
                      "applyType":  "External Apply",
                      "classificationConfidence":  "Discovery",
