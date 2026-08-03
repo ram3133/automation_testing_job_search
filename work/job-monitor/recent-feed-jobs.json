@@ -1,5 +1,5 @@
 ﻿{
-    "updatedAt":  "2026-08-03T21:35:09+00:00",
+    "updatedAt":  "2026-08-03T23:32:44+00:00",
     "jobs":  [
                  {
                      "id":  "linkedin:4440661475",
@@ -39,6 +39,28 @@
                                       "automation",
                                       "testng",
                                       "cucumber"
+                                  ],
+                     "applyType":  "External Apply",
+                     "classificationConfidence":  "Discovery",
+                     "notes":  "LinkedIn public result restored to match the previous ntfy alert style. Verify before applying.",
+                     "azureScore":  45,
+                     "databricksScore":  45,
+                     "modelingScore":  55
+                 },
+                 {
+                     "id":  "linkedin:4447786474",
+                     "company":  " YMinds.AI ",
+                     "role":  "Data QA Engineer – Snowflake, ETL/ELT \u0026 Automation Testing (3-5 Years) | Bangalore | Immediate Joiners Only",
+                     "location":  "Bengaluru, Karnataka, India",
+                     "link":  "https://www.linkedin.com/jobs/view/data-qa-engineer-%E2%80%93-snowflake-etl-elt-automation-testing-3-5-years-bangalore-immediate-joiners-only-at-yminds-ai-4447786474/",
+                     "postedDate":  "1 day ago",
+                     "fit":  100,
+                     "fitReason":  "LinkedIn public India discovery match from Bengaluru SDET; verify JD, company, experience, and salary before applying",
+                     "keywords":  [
+                                      "sdet",
+                                      "qa engineer",
+                                      "automation",
+                                      "qa"
                                   ],
                      "applyType":  "External Apply",
                      "classificationConfidence":  "Discovery",
@@ -91,50 +113,6 @@
                      "modelingScore":  55
                  },
                  {
-                     "id":  "linkedin:4447786474",
-                     "company":  " YMinds.AI ",
-                     "role":  "Data QA Engineer – Snowflake, ETL/ELT \u0026 Automation Testing (3-5 Years) | Bangalore | Immediate Joiners Only",
-                     "location":  "Bengaluru, Karnataka, India",
-                     "link":  "https://www.linkedin.com/jobs/view/data-qa-engineer-%E2%80%93-snowflake-etl-elt-automation-testing-3-5-years-bangalore-immediate-joiners-only-at-yminds-ai-4447786474/",
-                     "postedDate":  "1 day ago",
-                     "fit":  100,
-                     "fitReason":  "LinkedIn public India discovery match from Bengaluru SDET; verify JD, company, experience, and salary before applying",
-                     "keywords":  [
-                                      "sdet",
-                                      "qa engineer",
-                                      "automation",
-                                      "qa"
-                                  ],
-                     "applyType":  "External Apply",
-                     "classificationConfidence":  "Discovery",
-                     "notes":  "LinkedIn public result restored to match the previous ntfy alert style. Verify before applying.",
-                     "azureScore":  45,
-                     "databricksScore":  45,
-                     "modelingScore":  55
-                 },
-                 {
-                     "id":  "linkedin:4427329477",
-                     "company":  " UST ",
-                     "role":  "Associate II - Data Engineering",
-                     "location":  "Bengaluru, Karnataka, India",
-                     "link":  "https://www.linkedin.com/jobs/view/associate-ii-data-engineering-at-ust-4427329477/",
-                     "postedDate":  "4 days ago",
-                     "fit":  100,
-                     "fitReason":  "LinkedIn public India discovery match from Bengaluru Java Selenium; verify JD, company, experience, and salary before applying",
-                     "keywords":  [
-                                      "automation engineer",
-                                      "automation",
-                                      "selenium",
-                                      "java"
-                                  ],
-                     "applyType":  "External Apply",
-                     "classificationConfidence":  "Discovery",
-                     "notes":  "LinkedIn public result restored to match the previous ntfy alert style. Verify before applying.",
-                     "azureScore":  45,
-                     "databricksScore":  45,
-                     "modelingScore":  55
-                 },
-                 {
                      "id":  "linkedin:4442996650",
                      "company":  " HYrEzy Tech Solutions ",
                      "role":  "QA Automation Engineer - DBT \u0026 ETL Testing - Python and Pytest",
@@ -150,28 +128,6 @@
                                       "qa",
                                       "java",
                                       "python"
-                                  ],
-                     "applyType":  "External Apply",
-                     "classificationConfidence":  "Discovery",
-                     "notes":  "LinkedIn public result restored to match the previous ntfy alert style. Verify before applying.",
-                     "azureScore":  45,
-                     "databricksScore":  45,
-                     "modelingScore":  55
-                 },
-                 {
-                     "id":  "linkedin:4388860725",
-                     "company":  " UST ",
-                     "role":  "Lead I - Data Engineering",
-                     "location":  "Bengaluru, Karnataka, India",
-                     "link":  "https://www.linkedin.com/jobs/view/lead-i-data-engineering-at-ust-4388860725/",
-                     "postedDate":  "2 days ago",
-                     "fit":  100,
-                     "fitReason":  "LinkedIn public India discovery match from Bengaluru Java Selenium; verify JD, company, experience, and salary before applying",
-                     "keywords":  [
-                                      "automation engineer",
-                                      "automation",
-                                      "selenium",
-                                      "java"
                                   ],
                      "applyType":  "External Apply",
                      "classificationConfidence":  "Discovery",
@@ -204,12 +160,56 @@
                      "modelingScore":  55
                  },
                  {
+                     "id":  "linkedin:4388860725",
+                     "company":  " UST ",
+                     "role":  "Lead I - Data Engineering",
+                     "location":  "Bengaluru, Karnataka, India",
+                     "link":  "https://www.linkedin.com/jobs/view/lead-i-data-engineering-at-ust-4388860725/",
+                     "postedDate":  "2 days ago",
+                     "fit":  100,
+                     "fitReason":  "LinkedIn public India discovery match from Bengaluru Java Selenium; verify JD, company, experience, and salary before applying",
+                     "keywords":  [
+                                      "automation engineer",
+                                      "automation",
+                                      "selenium",
+                                      "java"
+                                  ],
+                     "applyType":  "External Apply",
+                     "classificationConfidence":  "Discovery",
+                     "notes":  "LinkedIn public result restored to match the previous ntfy alert style. Verify before applying.",
+                     "azureScore":  45,
+                     "databricksScore":  45,
+                     "modelingScore":  55
+                 },
+                 {
+                     "id":  "linkedin:4427329477",
+                     "company":  " UST ",
+                     "role":  "Associate II - Data Engineering",
+                     "location":  "Bengaluru, Karnataka, India",
+                     "link":  "https://www.linkedin.com/jobs/view/associate-ii-data-engineering-at-ust-4427329477/",
+                     "postedDate":  "4 days ago",
+                     "fit":  100,
+                     "fitReason":  "LinkedIn public India discovery match from Bengaluru Java Selenium; verify JD, company, experience, and salary before applying",
+                     "keywords":  [
+                                      "automation engineer",
+                                      "automation",
+                                      "selenium",
+                                      "java"
+                                  ],
+                     "applyType":  "External Apply",
+                     "classificationConfidence":  "Discovery",
+                     "notes":  "LinkedIn public result restored to match the previous ntfy alert style. Verify before applying.",
+                     "azureScore":  45,
+                     "databricksScore":  45,
+                     "modelingScore":  55
+                 },
+                 {
                      "id":  "linkedin:4448144961",
                      "company":  " Tek Grove ",
                      "role":  "ETL QA Engineer - 5+ Years - immediate joiner",
                      "location":  "Hyderabad, Telangana, India",
                      "link":  "https://www.linkedin.com/jobs/view/etl-qa-engineer-5%2B-years-immediate-joiner-at-tek-grove-4448144961/",
-                     "postedDate":  "12 hours ago",
+                     "postedDate":  "15 hours ago",
                      "fit":  100,
                      "fitReason":  "LinkedIn public India discovery match from Hyderabad Java QA; verify JD, company, experience, and salary before applying",
                      "keywords":  [
