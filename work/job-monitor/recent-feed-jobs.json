@@ -1,5 +1,5 @@
 ﻿{
-    "updatedAt":  "2026-08-04T03:45:01+00:00",
+    "updatedAt":  "2026-08-04T06:47:06+00:00",
     "jobs":  [
                  {
                      "id":  "linkedin:4440661475",
@@ -39,6 +39,26 @@
                                       "automation",
                                       "testng",
                                       "cucumber"
+                                  ],
+                     "applyType":  "External Apply",
+                     "classificationConfidence":  "Discovery",
+                     "notes":  "LinkedIn public result restored to match the previous ntfy alert style. Verify before applying.",
+                     "azureScore":  45,
+                     "databricksScore":  45,
+                     "modelingScore":  55
+                 },
+                 {
+                     "id":  "linkedin:4438422648",
+                     "company":  " Virtusa ",
+                     "role":  "ETL Tester",
+                     "location":  "Bangalore Urban, Karnataka, India",
+                     "link":  "https://www.linkedin.com/jobs/view/etl-tester-at-virtusa-4438422648/",
+                     "postedDate":  "4 days ago",
+                     "fit":  100,
+                     "fitReason":  "LinkedIn public India discovery match from Bengaluru SDET; verify JD, company, experience, and salary before applying",
+                     "keywords":  [
+                                      "sdet",
+                                      "tester"
                                   ],
                      "applyType":  "External Apply",
                      "classificationConfidence":  "Discovery",
@@ -93,17 +113,64 @@
                      "modelingScore":  55
                  },
                  {
-                     "id":  "linkedin:4438422648",
-                     "company":  " Virtusa ",
-                     "role":  "ETL Tester",
-                     "location":  "Bangalore Urban, Karnataka, India",
-                     "link":  "https://www.linkedin.com/jobs/view/etl-tester-at-virtusa-4438422648/",
+                     "id":  "linkedin:4441516567",
+                     "company":  " EduRun Group ",
+                     "role":  "QA Data Engineer",
+                     "location":  "Hyderabad, Telangana, India",
+                     "link":  "https://www.linkedin.com/jobs/view/qa-data-engineer-at-edurun-group-4441516567/",
+                     "postedDate":  "1 hour ago",
+                     "fit":  100,
+                     "fitReason":  "LinkedIn public India discovery match from Hyderabad Java QA; verify JD, company, experience, and salary before applying",
+                     "keywords":  [
+                                      "qa automation",
+                                      "automation engineer",
+                                      "automation",
+                                      "qa",
+                                      "java"
+                                  ],
+                     "applyType":  "External Apply",
+                     "classificationConfidence":  "Discovery",
+                     "notes":  "LinkedIn public result restored to match the previous ntfy alert style. Verify before applying.",
+                     "azureScore":  45,
+                     "databricksScore":  45,
+                     "modelingScore":  55
+                 },
+                 {
+                     "id":  "linkedin:4427329477",
+                     "company":  " UST ",
+                     "role":  "Associate II - Data Engineering",
+                     "location":  "Bengaluru, Karnataka, India",
+                     "link":  "https://www.linkedin.com/jobs/view/associate-ii-data-engineering-at-ust-4427329477/",
                      "postedDate":  "4 days ago",
                      "fit":  100,
-                     "fitReason":  "LinkedIn public India discovery match from Bengaluru SDET; verify JD, company, experience, and salary before applying",
+                     "fitReason":  "LinkedIn public India discovery match from Bengaluru Java Selenium; verify JD, company, experience, and salary before applying",
                      "keywords":  [
-                                      "sdet",
-                                      "tester"
+                                      "automation engineer",
+                                      "automation",
+                                      "selenium",
+                                      "java"
+                                  ],
+                     "applyType":  "External Apply",
+                     "classificationConfidence":  "Discovery",
+                     "notes":  "LinkedIn public result restored to match the previous ntfy alert style. Verify before applying.",
+                     "azureScore":  45,
+                     "databricksScore":  45,
+                     "modelingScore":  55
+                 },
+                 {
+                     "id":  "linkedin:4388860725",
+                     "company":  " UST ",
+                     "role":  "Lead I - Data Engineering",
+                     "location":  "Bengaluru, Karnataka, India",
+                     "link":  "https://www.linkedin.com/jobs/view/lead-i-data-engineering-at-ust-4388860725/",
+                     "postedDate":  "2 days ago",
+                     "fit":  100,
+                     "fitReason":  "LinkedIn public India discovery match from Bengaluru Java Selenium; verify JD, company, experience, and salary before applying",
+                     "keywords":  [
+                                      "automation engineer",
+                                      "automation",
+                                      "selenium",
+                                      "java"
                                   ],
                      "applyType":  "External Apply",
                      "classificationConfidence":  "Discovery",
@@ -137,79 +204,12 @@
                      "modelingScore":  55
                  },
                  {
-                     "id":  "linkedin:4441516567",
-                     "company":  " EduRun Group ",
-                     "role":  "QA Data Engineer",
-                     "location":  "Hyderabad, Telangana, India",
-                     "link":  "https://www.linkedin.com/jobs/view/qa-data-engineer-at-edurun-group-4441516567/",
-                     "postedDate":  "1 hour ago",
-                     "fit":  100,
-                     "fitReason":  "LinkedIn public India discovery match from Hyderabad Java QA; verify JD, company, experience, and salary before applying",
-                     "keywords":  [
-                                      "qa automation",
-                                      "automation engineer",
-                                      "automation",
-                                      "qa",
-                                      "java"
-                                  ],
-                     "applyType":  "External Apply",
-                     "classificationConfidence":  "Discovery",
-                     "notes":  "LinkedIn public result restored to match the previous ntfy alert style. Verify before applying.",
-                     "azureScore":  45,
-                     "databricksScore":  45,
-                     "modelingScore":  55
-                 },
-                 {
-                     "id":  "linkedin:4388860725",
-                     "company":  " UST ",
-                     "role":  "Lead I - Data Engineering",
-                     "location":  "Bengaluru, Karnataka, India",
-                     "link":  "https://www.linkedin.com/jobs/view/lead-i-data-engineering-at-ust-4388860725/",
-                     "postedDate":  "2 days ago",
-                     "fit":  100,
-                     "fitReason":  "LinkedIn public India discovery match from Bengaluru Java Selenium; verify JD, company, experience, and salary before applying",
-                     "keywords":  [
-                                      "automation engineer",
-                                      "automation",
-                                      "selenium",
-                                      "java"
-                                  ],
-                     "applyType":  "External Apply",
-                     "classificationConfidence":  "Discovery",
-                     "notes":  "LinkedIn public result restored to match the previous ntfy alert style. Verify before applying.",
-                     "azureScore":  45,
-                     "databricksScore":  45,
-                     "modelingScore":  55
-                 },
-                 {
-                     "id":  "linkedin:4427329477",
-                     "company":  " UST ",
-                     "role":  "Associate II - Data Engineering",
-                     "location":  "Bengaluru, Karnataka, India",
-                     "link":  "https://www.linkedin.com/jobs/view/associate-ii-data-engineering-at-ust-4427329477/",
-                     "postedDate":  "4 days ago",
-                     "fit":  100,
-                     "fitReason":  "LinkedIn public India discovery match from Bengaluru Java Selenium; verify JD, company, experience, and salary before applying",
-                     "keywords":  [
-                                      "automation engineer",
-                                      "automation",
-                                      "selenium",
-                                      "java"
-                                  ],
-                     "applyType":  "External Apply",
-                     "classificationConfidence":  "Discovery",
-                     "notes":  "LinkedIn public result restored to match the previous ntfy alert style. Verify before applying.",
-                     "azureScore":  45,
-                     "databricksScore":  45,
-                     "modelingScore":  55
-                 },
-                 {
                      "id":  "linkedin:4448144961",
                      "company":  " Tek Grove ",
                      "role":  "ETL QA Engineer - 5+ Years - immediate joiner",
                      "location":  "Hyderabad, Telangana, India",
                      "link":  "https://www.linkedin.com/jobs/view/etl-qa-engineer-5%2B-years-immediate-joiner-at-tek-grove-4448144961/",
-                     "postedDate":  "15 hours ago",
+                     "postedDate":  "22 hours ago",
                      "fit":  100,
                      "fitReason":  "LinkedIn public India discovery match from Hyderabad Java QA; verify JD, company, experience, and salary before applying",
                      "keywords":  [
