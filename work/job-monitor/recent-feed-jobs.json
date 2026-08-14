@@ -1,29 +1,6 @@
 ﻿{
-    "updatedAt":  "2026-08-14T20:51:07+00:00",
+    "updatedAt":  "2026-08-14T22:45:36+00:00",
     "jobs":  [
-                 {
-                     "id":  "linkedin:4440661475",
-                     "company":  " Raah Techservices ",
-                     "role":  "Senior ETL QA Automation Engineer | 6+ Years",
-                     "location":  "India",
-                     "link":  "https://www.linkedin.com/jobs/view/senior-etl-qa-automation-engineer-6%2B-years-at-raah-techservices-4440661475/",
-                     "postedDate":  "1 day ago",
-                     "fit":  100,
-                     "fitReason":  "LinkedIn public India discovery match from India Remote QA Java; verify JD, company, experience, and salary before applying",
-                     "keywords":  [
-                                      "qa automation",
-                                      "automation engineer",
-                                      "automation",
-                                      "qa",
-                                      "java"
-                                  ],
-                     "applyType":  "External Apply",
-                     "classificationConfidence":  "Discovery",
-                     "notes":  "LinkedIn public result restored to match the previous ntfy alert style. Verify before applying.",
-                     "azureScore":  45,
-                     "databricksScore":  45,
-                     "modelingScore":  55
-                 },
                  {
                      "id":  "linkedin:4443219988",
                      "company":  " Zone IT Solutions ",
@@ -136,17 +113,16 @@
                      "modelingScore":  55
                  },
                  {
-                     "id":  "linkedin:4448144961",
-                     "company":  " Tek Grove ",
-                     "role":  "ETL QA Engineer - 5+ Years - immediate joiner",
-                     "location":  "Hyderabad, Telangana, India",
-                     "link":  "https://www.linkedin.com/jobs/view/etl-qa-engineer-5%2B-years-immediate-joiner-at-tek-grove-4448144961/",
-                     "postedDate":  "2 days ago",
+                     "id":  "linkedin:4440661475",
+                     "company":  " Raah Techservices ",
+                     "role":  "Senior ETL QA Automation Engineer | 6+ Years",
+                     "location":  "India",
+                     "link":  "https://www.linkedin.com/jobs/view/senior-etl-qa-automation-engineer-6%2B-years-at-raah-techservices-4440661475/",
+                     "postedDate":  "1 day ago",
                      "fit":  100,
-                     "fitReason":  "LinkedIn public India discovery match from Hyderabad Java QA; verify JD, company, experience, and salary before applying",
+                     "fitReason":  "LinkedIn public India discovery match from India Remote QA Java; verify JD, company, experience, and salary before applying",
                      "keywords":  [
                                       "qa automation",
-                                      "qa engineer",
                                       "automation engineer",
                                       "automation",
                                       "qa",
@@ -263,6 +239,30 @@
                      "keywords":  [
                                       "qa automation",
                                       "quality engineer",
+                                      "automation engineer",
+                                      "automation",
+                                      "qa",
+                                      "java"
+                                  ],
+                     "applyType":  "External Apply",
+                     "classificationConfidence":  "Discovery",
+                     "notes":  "LinkedIn public result restored to match the previous ntfy alert style. Verify before applying.",
+                     "azureScore":  45,
+                     "databricksScore":  45,
+                     "modelingScore":  55
+                 },
+                 {
+                     "id":  "linkedin:4448144961",
+                     "company":  " Tek Grove ",
+                     "role":  "ETL QA Engineer - 5+ Years - immediate joiner",
+                     "location":  "Hyderabad, Telangana, India",
+                     "link":  "https://www.linkedin.com/jobs/view/etl-qa-engineer-5%2B-years-immediate-joiner-at-tek-grove-4448144961/",
+                     "postedDate":  "2 days ago",
+                     "fit":  100,
+                     "fitReason":  "LinkedIn public India discovery match from Hyderabad Java QA; verify JD, company, experience, and salary before applying",
+                     "keywords":  [
+                                      "qa automation",
+                                      "qa engineer",
                                       "automation engineer",
                                       "automation",
                                       "qa",
