@@ -1,29 +1,6 @@
 ﻿{
-    "updatedAt":  "2026-08-15T16:46:51+00:00",
+    "updatedAt":  "2026-08-15T18:52:52+00:00",
     "jobs":  [
-                 {
-                     "id":  "linkedin:4441516567",
-                     "company":  " EduRun Group ",
-                     "role":  "QA Data Engineer",
-                     "location":  "Hyderabad, Telangana, India",
-                     "link":  "https://www.linkedin.com/jobs/view/qa-data-engineer-at-edurun-group-4441516567/",
-                     "postedDate":  "1 hour ago",
-                     "fit":  100,
-                     "fitReason":  "LinkedIn public India discovery match from Hyderabad Java QA; verify JD, company, experience, and salary before applying",
-                     "keywords":  [
-                                      "qa automation",
-                                      "automation engineer",
-                                      "automation",
-                                      "qa",
-                                      "java"
-                                  ],
-                     "applyType":  "External Apply",
-                     "classificationConfidence":  "Discovery",
-                     "notes":  "LinkedIn public result restored to match the previous ntfy alert style. Verify before applying.",
-                     "azureScore":  45,
-                     "databricksScore":  45,
-                     "modelingScore":  55
-                 },
                  {
                      "id":  "linkedin:4438422648",
                      "company":  " Virtusa ",
@@ -136,41 +113,16 @@
                      "modelingScore":  55
                  },
                  {
-                     "id":  "linkedin:4442996650",
-                     "company":  " HYrEzy Tech Solutions ",
-                     "role":  "QA Automation Engineer - DBT \u0026 ETL Testing - Python and Pytest",
+                     "id":  "linkedin:4441516567",
+                     "company":  " EduRun Group ",
+                     "role":  "QA Data Engineer",
                      "location":  "Hyderabad, Telangana, India",
-                     "link":  "https://www.linkedin.com/jobs/view/qa-automation-engineer-dbt-etl-testing-python-and-pytest-at-hyrezy-tech-solutions-4442996650/",
-                     "postedDate":  "6 days ago",
+                     "link":  "https://www.linkedin.com/jobs/view/qa-data-engineer-at-edurun-group-4441516567/",
+                     "postedDate":  "1 hour ago",
                      "fit":  100,
                      "fitReason":  "LinkedIn public India discovery match from Hyderabad Java QA; verify JD, company, experience, and salary before applying",
                      "keywords":  [
                                       "qa automation",
-                                      "automation engineer",
-                                      "automation",
-                                      "qa",
-                                      "java",
-                                      "python"
-                                  ],
-                     "applyType":  "External Apply",
-                     "classificationConfidence":  "Discovery",
-                     "notes":  "LinkedIn public result restored to match the previous ntfy alert style. Verify before applying.",
-                     "azureScore":  45,
-                     "databricksScore":  45,
-                     "modelingScore":  55
-                 },
-                 {
-                     "id":  "linkedin:4451527230",
-                     "company":  " CIBC India ",
-                     "role":  "Quality Engineer - ETL Testing [T500-28335]",
-                     "location":  "Hyderabad, Telangana, India",
-                     "link":  "https://www.linkedin.com/jobs/view/quality-engineer-etl-testing-t500-28335-at-cibc-india-4451527230/",
-                     "postedDate":  "3 days ago",
-                     "fit":  100,
-                     "fitReason":  "LinkedIn public India discovery match from Hyderabad Java QA; verify JD, company, experience, and salary before applying",
-                     "keywords":  [
-                                      "qa automation",
-                                      "quality engineer",
                                       "automation engineer",
                                       "automation",
                                       "qa",
@@ -221,6 +173,30 @@
                                       "automation",
                                       "selenium",
                                       "java"
+                                  ],
+                     "applyType":  "External Apply",
+                     "classificationConfidence":  "Discovery",
+                     "notes":  "LinkedIn public result restored to match the previous ntfy alert style. Verify before applying.",
+                     "azureScore":  45,
+                     "databricksScore":  45,
+                     "modelingScore":  55
+                 },
+                 {
+                     "id":  "linkedin:4442996650",
+                     "company":  " HYrEzy Tech Solutions ",
+                     "role":  "QA Automation Engineer - DBT \u0026 ETL Testing - Python and Pytest",
+                     "location":  "Hyderabad, Telangana, India",
+                     "link":  "https://www.linkedin.com/jobs/view/qa-automation-engineer-dbt-etl-testing-python-and-pytest-at-hyrezy-tech-solutions-4442996650/",
+                     "postedDate":  "6 days ago",
+                     "fit":  100,
+                     "fitReason":  "LinkedIn public India discovery match from Hyderabad Java QA; verify JD, company, experience, and salary before applying",
+                     "keywords":  [
+                                      "qa automation",
+                                      "automation engineer",
+                                      "automation",
+                                      "qa",
+                                      "java",
+                                      "python"
                                   ],
                      "applyType":  "External Apply",
                      "classificationConfidence":  "Discovery",
@@ -290,6 +266,30 @@
                      "applyType":  "External Apply",
                      "classificationConfidence":  "Discovery",
                      "notes":  "Official Databricks careers feed, but it missed one strict gate. Review before applying.",
+                     "azureScore":  45,
+                     "databricksScore":  45,
+                     "modelingScore":  55
+                 },
+                 {
+                     "id":  "linkedin:4451527230",
+                     "company":  " CIBC India ",
+                     "role":  "Quality Engineer - ETL Testing [T500-28335]",
+                     "location":  "Hyderabad, Telangana, India",
+                     "link":  "https://www.linkedin.com/jobs/view/quality-engineer-etl-testing-t500-28335-at-cibc-india-4451527230/",
+                     "postedDate":  "5 days ago",
+                     "fit":  100,
+                     "fitReason":  "LinkedIn public India discovery match from Hyderabad Java QA; verify JD, company, experience, and salary before applying",
+                     "keywords":  [
+                                      "qa automation",
+                                      "quality engineer",
+                                      "automation engineer",
+                                      "automation",
+                                      "qa",
+                                      "java"
+                                  ],
+                     "applyType":  "External Apply",
+                     "classificationConfidence":  "Discovery",
+                     "notes":  "LinkedIn public result restored to match the previous ntfy alert style. Verify before applying.",
                      "azureScore":  45,
                      "databricksScore":  45,
                      "modelingScore":  55
