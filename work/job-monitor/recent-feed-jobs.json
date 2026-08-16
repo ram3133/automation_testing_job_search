@@ -1,26 +1,6 @@
 ﻿{
-    "updatedAt":  "2026-08-16T07:05:29+00:00",
+    "updatedAt":  "2026-08-16T08:52:33+00:00",
     "jobs":  [
-                 {
-                     "id":  "linkedin:4438422648",
-                     "company":  " Virtusa ",
-                     "role":  "ETL Tester",
-                     "location":  "Bangalore Urban, Karnataka, India",
-                     "link":  "https://www.linkedin.com/jobs/view/etl-tester-at-virtusa-4438422648/",
-                     "postedDate":  "4 days ago",
-                     "fit":  100,
-                     "fitReason":  "LinkedIn public India discovery match from Bengaluru SDET; verify JD, company, experience, and salary before applying",
-                     "keywords":  [
-                                      "sdet",
-                                      "tester"
-                                  ],
-                     "applyType":  "External Apply",
-                     "classificationConfidence":  "Discovery",
-                     "notes":  "LinkedIn public result restored to match the previous ntfy alert style. Verify before applying.",
-                     "azureScore":  45,
-                     "databricksScore":  45,
-                     "modelingScore":  55
-                 },
                  {
                      "id":  "linkedin:4440661475",
                      "company":  " Raah Techservices ",
@@ -136,21 +116,17 @@
                      "modelingScore":  55
                  },
                  {
-                     "id":  "linkedin:4449651430",
-                     "company":  " Sky Systems, Inc. (SkySys) ",
-                     "role":  "QA Engineer – Big Data Products",
-                     "location":  "India",
-                     "link":  "https://www.linkedin.com/jobs/view/qa-engineer-%E2%80%93-big-data-products-at-sky-systems-inc-skysys-4449651430/",
-                     "postedDate":  "5 hours ago",
+                     "id":  "linkedin:4438422648",
+                     "company":  " Virtusa ",
+                     "role":  "ETL Tester",
+                     "location":  "Bangalore Urban, Karnataka, India",
+                     "link":  "https://www.linkedin.com/jobs/view/etl-tester-at-virtusa-4438422648/",
+                     "postedDate":  "4 days ago",
                      "fit":  100,
-                     "fitReason":  "LinkedIn public India discovery match from India Remote QA Java; verify JD, company, experience, and salary before applying",
+                     "fitReason":  "LinkedIn public India discovery match from Bengaluru SDET; verify JD, company, experience, and salary before applying",
                      "keywords":  [
-                                      "qa automation",
-                                      "qa engineer",
-                                      "automation engineer",
-                                      "automation",
-                                      "qa",
-                                      "java"
+                                      "sdet",
+                                      "tester"
                                   ],
                      "applyType":  "External Apply",
                      "classificationConfidence":  "Discovery",
@@ -252,25 +228,6 @@
                      "modelingScore":  55
                  },
                  {
-                     "id":  "near:7647369002",
-                     "company":  "Databricks",
-                     "role":  "Senior Software Engineer (Data Platform)",
-                     "location":  "Bengaluru, India, Bengaluru, India",
-                     "link":  "https://databricks.com/company/careers/open-positions/job?gh_jid=7647369002",
-                     "postedDate":  "Official ATS near-match; verify freshness",
-                     "fit":  68,
-                     "fitReason":  "Tier 2 ATS near-match for Sarath\u0027s profile; verify exact title, stack, seniority, and experience requirement",
-                     "keywords":  [
-                                      "ci/cd"
-                                  ],
-                     "applyType":  "External Apply",
-                     "classificationConfidence":  "Discovery",
-                     "notes":  "Official Databricks careers feed, but it missed one strict gate. Review before applying.",
-                     "azureScore":  45,
-                     "databricksScore":  45,
-                     "modelingScore":  55
-                 },
-                 {
                      "id":  "linkedin:4451527230",
                      "company":  " CIBC India ",
                      "role":  "Quality Engineer - ETL Testing [T500-28335]",
@@ -290,6 +247,49 @@
                      "applyType":  "External Apply",
                      "classificationConfidence":  "Discovery",
                      "notes":  "LinkedIn public result restored to match the previous ntfy alert style. Verify before applying.",
+                     "azureScore":  45,
+                     "databricksScore":  45,
+                     "modelingScore":  55
+                 },
+                 {
+                     "id":  "linkedin:4449651430",
+                     "company":  " Sky Systems, Inc. (SkySys) ",
+                     "role":  "QA Engineer – Big Data Products",
+                     "location":  "India",
+                     "link":  "https://www.linkedin.com/jobs/view/qa-engineer-%E2%80%93-big-data-products-at-sky-systems-inc-skysys-4449651430/",
+                     "postedDate":  "5 hours ago",
+                     "fit":  100,
+                     "fitReason":  "LinkedIn public India discovery match from India Remote QA Java; verify JD, company, experience, and salary before applying",
+                     "keywords":  [
+                                      "qa automation",
+                                      "qa engineer",
+                                      "automation engineer",
+                                      "automation",
+                                      "qa",
+                                      "java"
+                                  ],
+                     "applyType":  "External Apply",
+                     "classificationConfidence":  "Discovery",
+                     "notes":  "LinkedIn public result restored to match the previous ntfy alert style. Verify before applying.",
+                     "azureScore":  45,
+                     "databricksScore":  45,
+                     "modelingScore":  55
+                 },
+                 {
+                     "id":  "near:7647369002",
+                     "company":  "Databricks",
+                     "role":  "Senior Software Engineer (Data Platform)",
+                     "location":  "Bengaluru, India, Bengaluru, India",
+                     "link":  "https://databricks.com/company/careers/open-positions/job?gh_jid=7647369002",
+                     "postedDate":  "Official ATS near-match; verify freshness",
+                     "fit":  68,
+                     "fitReason":  "Tier 2 ATS near-match for Sarath\u0027s profile; verify exact title, stack, seniority, and experience requirement",
+                     "keywords":  [
+                                      "ci/cd"
+                                  ],
+                     "applyType":  "External Apply",
+                     "classificationConfidence":  "Discovery",
+                     "notes":  "Official Databricks careers feed, but it missed one strict gate. Review before applying.",
                      "azureScore":  45,
                      "databricksScore":  45,
                      "modelingScore":  55
