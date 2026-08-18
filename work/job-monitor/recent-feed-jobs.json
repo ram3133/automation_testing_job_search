@@ -1,29 +1,6 @@
 ﻿{
-    "updatedAt":  "2026-08-18T03:13:17+00:00",
+    "updatedAt":  "2026-08-18T04:57:24+00:00",
     "jobs":  [
-                 {
-                     "id":  "linkedin:4434727409",
-                     "company":  " ORBCOMM ",
-                     "role":  "ETL Testing Engineer",
-                     "location":  "Hyderabad, Telangana, India",
-                     "link":  "https://www.linkedin.com/jobs/view/etl-testing-engineer-at-orbcomm-4434727409/",
-                     "postedDate":  "6 days ago",
-                     "fit":  100,
-                     "fitReason":  "LinkedIn public India discovery match from India Remote QA Java; verify JD, company, experience, and salary before applying",
-                     "keywords":  [
-                                      "qa automation",
-                                      "automation engineer",
-                                      "automation",
-                                      "qa",
-                                      "java"
-                                  ],
-                     "applyType":  "External Apply",
-                     "classificationConfidence":  "Discovery",
-                     "notes":  "LinkedIn public result restored to match the previous ntfy alert style. Verify before applying.",
-                     "azureScore":  45,
-                     "databricksScore":  45,
-                     "modelingScore":  55
-                 },
                  {
                      "id":  "linkedin:4441516567",
                      "company":  " EduRun Group ",
@@ -136,17 +113,16 @@
                      "modelingScore":  55
                  },
                  {
-                     "id":  "linkedin:4448144961",
-                     "company":  " Tek Grove ",
-                     "role":  "ETL QA Engineer - 5+ Years - immediate joiner",
+                     "id":  "linkedin:4434727409",
+                     "company":  " ORBCOMM ",
+                     "role":  "ETL Testing Engineer",
                      "location":  "Hyderabad, Telangana, India",
-                     "link":  "https://www.linkedin.com/jobs/view/etl-qa-engineer-5%2B-years-immediate-joiner-at-tek-grove-4448144961/",
-                     "postedDate":  "2 days ago",
+                     "link":  "https://www.linkedin.com/jobs/view/etl-testing-engineer-at-orbcomm-4434727409/",
+                     "postedDate":  "6 days ago",
                      "fit":  100,
-                     "fitReason":  "LinkedIn public India discovery match from Hyderabad Java QA; verify JD, company, experience, and salary before applying",
+                     "fitReason":  "LinkedIn public India discovery match from India Remote QA Java; verify JD, company, experience, and salary before applying",
                      "keywords":  [
                                       "qa automation",
-                                      "qa engineer",
                                       "automation engineer",
                                       "automation",
                                       "qa",
@@ -266,6 +242,30 @@
                                       "automation engineer",
                                       "automation",
                                       "selenium",
+                                      "java"
+                                  ],
+                     "applyType":  "External Apply",
+                     "classificationConfidence":  "Discovery",
+                     "notes":  "LinkedIn public result restored to match the previous ntfy alert style. Verify before applying.",
+                     "azureScore":  45,
+                     "databricksScore":  45,
+                     "modelingScore":  55
+                 },
+                 {
+                     "id":  "linkedin:4448144961",
+                     "company":  " Tek Grove ",
+                     "role":  "ETL QA Engineer - 5+ Years - immediate joiner",
+                     "location":  "Hyderabad, Telangana, India",
+                     "link":  "https://www.linkedin.com/jobs/view/etl-qa-engineer-5%2B-years-immediate-joiner-at-tek-grove-4448144961/",
+                     "postedDate":  "2 days ago",
+                     "fit":  100,
+                     "fitReason":  "LinkedIn public India discovery match from Hyderabad Java QA; verify JD, company, experience, and salary before applying",
+                     "keywords":  [
+                                      "qa automation",
+                                      "qa engineer",
+                                      "automation engineer",
+                                      "automation",
+                                      "qa",
                                       "java"
                                   ],
                      "applyType":  "External Apply",
