@@ -1,29 +1,6 @@
 ﻿{
-    "updatedAt":  "2026-08-23T10:46:29+00:00",
+    "updatedAt":  "2026-08-23T13:07:29+00:00",
     "jobs":  [
-                 {
-                     "id":  "linkedin:4443219988",
-                     "company":  " Zone IT Solutions ",
-                     "role":  "ETL Databricks Testing Engineer",
-                     "location":  "Hyderabad, Telangana, India",
-                     "link":  "https://www.linkedin.com/jobs/view/etl-databricks-testing-engineer-at-zone-it-solutions-4443219988/",
-                     "postedDate":  "5 days ago",
-                     "fit":  100,
-                     "fitReason":  "LinkedIn public India discovery match from Hyderabad TestNG Cucumber; verify JD, company, experience, and salary before applying",
-                     "keywords":  [
-                                      "automation test engineer",
-                                      "test engineer",
-                                      "automation",
-                                      "testng",
-                                      "cucumber"
-                                  ],
-                     "applyType":  "External Apply",
-                     "classificationConfidence":  "Discovery",
-                     "notes":  "LinkedIn public result restored to match the previous ntfy alert style. Verify before applying.",
-                     "azureScore":  45,
-                     "databricksScore":  45,
-                     "modelingScore":  55
-                 },
                  {
                      "id":  "linkedin:4447786474",
                      "company":  " YMinds.AI ",
@@ -136,21 +113,20 @@
                      "modelingScore":  55
                  },
                  {
-                     "id":  "linkedin:4442996650",
-                     "company":  " HYrEzy Tech Solutions ",
-                     "role":  "QA Automation Engineer - DBT \u0026 ETL Testing - Python and Pytest",
+                     "id":  "linkedin:4443219988",
+                     "company":  " Zone IT Solutions ",
+                     "role":  "ETL Databricks Testing Engineer",
                      "location":  "Hyderabad, Telangana, India",
-                     "link":  "https://www.linkedin.com/jobs/view/qa-automation-engineer-dbt-etl-testing-python-and-pytest-at-hyrezy-tech-solutions-4442996650/",
-                     "postedDate":  "6 days ago",
+                     "link":  "https://www.linkedin.com/jobs/view/etl-databricks-testing-engineer-at-zone-it-solutions-4443219988/",
+                     "postedDate":  "5 days ago",
                      "fit":  100,
-                     "fitReason":  "LinkedIn public India discovery match from Hyderabad Java QA; verify JD, company, experience, and salary before applying",
+                     "fitReason":  "LinkedIn public India discovery match from Hyderabad TestNG Cucumber; verify JD, company, experience, and salary before applying",
                      "keywords":  [
-                                      "qa automation",
-                                      "automation engineer",
+                                      "automation test engineer",
+                                      "test engineer",
                                       "automation",
-                                      "qa",
-                                      "java",
-                                      "python"
+                                      "testng",
+                                      "cucumber"
                                   ],
                      "applyType":  "External Apply",
                      "classificationConfidence":  "Discovery",
@@ -267,6 +243,30 @@
                                       "automation",
                                       "selenium",
                                       "java"
+                                  ],
+                     "applyType":  "External Apply",
+                     "classificationConfidence":  "Discovery",
+                     "notes":  "LinkedIn public result restored to match the previous ntfy alert style. Verify before applying.",
+                     "azureScore":  45,
+                     "databricksScore":  45,
+                     "modelingScore":  55
+                 },
+                 {
+                     "id":  "linkedin:4442996650",
+                     "company":  " HYrEzy Tech Solutions ",
+                     "role":  "QA Automation Engineer - DBT \u0026 ETL Testing - Python and Pytest",
+                     "location":  "Hyderabad, Telangana, India",
+                     "link":  "https://www.linkedin.com/jobs/view/qa-automation-engineer-dbt-etl-testing-python-and-pytest-at-hyrezy-tech-solutions-4442996650/",
+                     "postedDate":  "6 days ago",
+                     "fit":  100,
+                     "fitReason":  "LinkedIn public India discovery match from Hyderabad Java QA; verify JD, company, experience, and salary before applying",
+                     "keywords":  [
+                                      "qa automation",
+                                      "automation engineer",
+                                      "automation",
+                                      "qa",
+                                      "java",
+                                      "python"
                                   ],
                      "applyType":  "External Apply",
                      "classificationConfidence":  "Discovery",
