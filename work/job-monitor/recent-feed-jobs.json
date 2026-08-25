@@ -1,29 +1,6 @@
 ﻿{
-    "updatedAt":  "2026-08-25T04:59:54+00:00",
+    "updatedAt":  "2026-08-25T07:14:31+00:00",
     "jobs":  [
-                 {
-                     "id":  "linkedin:4434727409",
-                     "company":  " ORBCOMM ",
-                     "role":  "ETL Testing Engineer",
-                     "location":  "Hyderabad, Telangana, India",
-                     "link":  "https://www.linkedin.com/jobs/view/etl-testing-engineer-at-orbcomm-4434727409/",
-                     "postedDate":  "6 days ago",
-                     "fit":  100,
-                     "fitReason":  "LinkedIn public India discovery match from India Remote QA Java; verify JD, company, experience, and salary before applying",
-                     "keywords":  [
-                                      "qa automation",
-                                      "automation engineer",
-                                      "automation",
-                                      "qa",
-                                      "java"
-                                  ],
-                     "applyType":  "External Apply",
-                     "classificationConfidence":  "Discovery",
-                     "notes":  "LinkedIn public result restored to match the previous ntfy alert style. Verify before applying.",
-                     "azureScore":  45,
-                     "databricksScore":  45,
-                     "modelingScore":  55
-                 },
                  {
                      "id":  "linkedin:4451527230",
                      "company":  " CIBC India ",
@@ -72,20 +49,17 @@
                      "modelingScore":  55
                  },
                  {
-                     "id":  "linkedin:4440661475",
-                     "company":  " Raah Techservices ",
-                     "role":  "Senior ETL QA Automation Engineer | 6+ Years",
-                     "location":  "India",
-                     "link":  "https://www.linkedin.com/jobs/view/senior-etl-qa-automation-engineer-6%2B-years-at-raah-techservices-4440661475/",
-                     "postedDate":  "1 day ago",
+                     "id":  "linkedin:4438422648",
+                     "company":  " Virtusa ",
+                     "role":  "ETL Tester",
+                     "location":  "Bangalore Urban, Karnataka, India",
+                     "link":  "https://www.linkedin.com/jobs/view/etl-tester-at-virtusa-4438422648/",
+                     "postedDate":  "4 days ago",
                      "fit":  100,
-                     "fitReason":  "LinkedIn public India discovery match from India Remote QA Java; verify JD, company, experience, and salary before applying",
+                     "fitReason":  "LinkedIn public India discovery match from Bengaluru SDET; verify JD, company, experience, and salary before applying",
                      "keywords":  [
-                                      "qa automation",
-                                      "automation engineer",
-                                      "automation",
-                                      "qa",
-                                      "java"
+                                      "sdet",
+                                      "tester"
                                   ],
                      "applyType":  "External Apply",
                      "classificationConfidence":  "Discovery",
@@ -140,38 +114,19 @@
                      "modelingScore":  55
                  },
                  {
-                     "id":  "linkedin:4438422648",
-                     "company":  " Virtusa ",
-                     "role":  "ETL Tester",
-                     "location":  "Bangalore Urban, Karnataka, India",
-                     "link":  "https://www.linkedin.com/jobs/view/etl-tester-at-virtusa-4438422648/",
-                     "postedDate":  "4 days ago",
+                     "id":  "linkedin:4434727409",
+                     "company":  " ORBCOMM ",
+                     "role":  "ETL Testing Engineer",
+                     "location":  "Hyderabad, Telangana, India",
+                     "link":  "https://www.linkedin.com/jobs/view/etl-testing-engineer-at-orbcomm-4434727409/",
+                     "postedDate":  "6 days ago",
                      "fit":  100,
-                     "fitReason":  "LinkedIn public India discovery match from Bengaluru SDET; verify JD, company, experience, and salary before applying",
+                     "fitReason":  "LinkedIn public India discovery match from India Remote QA Java; verify JD, company, experience, and salary before applying",
                      "keywords":  [
-                                      "sdet",
-                                      "tester"
-                                  ],
-                     "applyType":  "External Apply",
-                     "classificationConfidence":  "Discovery",
-                     "notes":  "LinkedIn public result restored to match the previous ntfy alert style. Verify before applying.",
-                     "azureScore":  45,
-                     "databricksScore":  45,
-                     "modelingScore":  55
-                 },
-                 {
-                     "id":  "linkedin:4427329477",
-                     "company":  " UST ",
-                     "role":  "Associate II - Data Engineering",
-                     "location":  "Bengaluru, Karnataka, India",
-                     "link":  "https://www.linkedin.com/jobs/view/associate-ii-data-engineering-at-ust-4427329477/",
-                     "postedDate":  "4 days ago",
-                     "fit":  100,
-                     "fitReason":  "LinkedIn public India discovery match from Bengaluru Java Selenium; verify JD, company, experience, and salary before applying",
-                     "keywords":  [
+                                      "qa automation",
                                       "automation engineer",
                                       "automation",
-                                      "selenium",
+                                      "qa",
                                       "java"
                                   ],
                      "applyType":  "External Apply",
@@ -182,18 +137,19 @@
                      "modelingScore":  55
                  },
                  {
-                     "id":  "linkedin:4388860725",
-                     "company":  " UST ",
-                     "role":  "Lead I - Data Engineering",
-                     "location":  "Bengaluru, Karnataka, India",
-                     "link":  "https://www.linkedin.com/jobs/view/lead-i-data-engineering-at-ust-4388860725/",
-                     "postedDate":  "2 days ago",
+                     "id":  "linkedin:4440661475",
+                     "company":  " Raah Techservices ",
+                     "role":  "Senior ETL QA Automation Engineer | 6+ Years",
+                     "location":  "India",
+                     "link":  "https://www.linkedin.com/jobs/view/senior-etl-qa-automation-engineer-6%2B-years-at-raah-techservices-4440661475/",
+                     "postedDate":  "1 day ago",
                      "fit":  100,
-                     "fitReason":  "LinkedIn public India discovery match from Bengaluru Java Selenium; verify JD, company, experience, and salary before applying",
+                     "fitReason":  "LinkedIn public India discovery match from India Remote QA Java; verify JD, company, experience, and salary before applying",
                      "keywords":  [
+                                      "qa automation",
                                       "automation engineer",
                                       "automation",
-                                      "selenium",
+                                      "qa",
                                       "java"
                                   ],
                      "applyType":  "External Apply",
@@ -252,6 +208,28 @@
                      "modelingScore":  55
                  },
                  {
+                     "id":  "linkedin:4388860725",
+                     "company":  " UST ",
+                     "role":  "Lead I - Data Engineering",
+                     "location":  "Bengaluru, Karnataka, India",
+                     "link":  "https://www.linkedin.com/jobs/view/lead-i-data-engineering-at-ust-4388860725/",
+                     "postedDate":  "2 days ago",
+                     "fit":  100,
+                     "fitReason":  "LinkedIn public India discovery match from Bengaluru Java Selenium; verify JD, company, experience, and salary before applying",
+                     "keywords":  [
+                                      "automation engineer",
+                                      "automation",
+                                      "selenium",
+                                      "java"
+                                  ],
+                     "applyType":  "External Apply",
+                     "classificationConfidence":  "Discovery",
+                     "notes":  "LinkedIn public result restored to match the previous ntfy alert style. Verify before applying.",
+                     "azureScore":  45,
+                     "databricksScore":  45,
+                     "modelingScore":  55
+                 },
+                 {
                      "id":  "linkedin:4449651430",
                      "company":  " Sky Systems, Inc. (SkySys) ",
                      "role":  "QA Engineer – Big Data Products",
@@ -266,6 +244,28 @@
                                       "automation engineer",
                                       "automation",
                                       "qa",
+                                      "java"
+                                  ],
+                     "applyType":  "External Apply",
+                     "classificationConfidence":  "Discovery",
+                     "notes":  "LinkedIn public result restored to match the previous ntfy alert style. Verify before applying.",
+                     "azureScore":  45,
+                     "databricksScore":  45,
+                     "modelingScore":  55
+                 },
+                 {
+                     "id":  "linkedin:4427329477",
+                     "company":  " UST ",
+                     "role":  "Associate II - Data Engineering",
+                     "location":  "Bengaluru, Karnataka, India",
+                     "link":  "https://www.linkedin.com/jobs/view/associate-ii-data-engineering-at-ust-4427329477/",
+                     "postedDate":  "4 days ago",
+                     "fit":  100,
+                     "fitReason":  "LinkedIn public India discovery match from Bengaluru Java Selenium; verify JD, company, experience, and salary before applying",
+                     "keywords":  [
+                                      "automation engineer",
+                                      "automation",
+                                      "selenium",
                                       "java"
                                   ],
                      "applyType":  "External Apply",
@@ -302,14 +302,14 @@
                      "link":  "https://www.linkedin.com/jobs/view/quality-engineer-etl-testing-t500-28636-at-cibc-india-4455711635/",
                      "postedDate":  "6 days ago",
                      "fit":  100,
-                     "fitReason":  "LinkedIn public India discovery match from Hyderabad TestNG Cucumber; verify JD, company, experience, and salary before applying",
+                     "fitReason":  "LinkedIn public India discovery match from Hyderabad Java QA; verify JD, company, experience, and salary before applying",
                      "keywords":  [
-                                      "automation test engineer",
+                                      "qa automation",
                                       "quality engineer",
-                                      "test engineer",
+                                      "automation engineer",
                                       "automation",
-                                      "testng",
-                                      "cucumber"
+                                      "qa",
+                                      "java"
                                   ],
                      "applyType":  "External Apply",
                      "classificationConfidence":  "Discovery",
