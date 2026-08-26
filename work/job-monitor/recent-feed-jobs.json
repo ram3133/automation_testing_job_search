@@ -1,29 +1,6 @@
 ﻿{
-    "updatedAt":  "2026-08-26T20:14:56+00:00",
+    "updatedAt":  "2026-08-26T23:46:57+00:00",
     "jobs":  [
-                 {
-                     "id":  "linkedin:4443219988",
-                     "company":  " Zone IT Solutions ",
-                     "role":  "ETL Databricks Testing Engineer",
-                     "location":  "Hyderabad, Telangana, India",
-                     "link":  "https://www.linkedin.com/jobs/view/etl-databricks-testing-engineer-at-zone-it-solutions-4443219988/",
-                     "postedDate":  "5 days ago",
-                     "fit":  100,
-                     "fitReason":  "LinkedIn public India discovery match from Hyderabad TestNG Cucumber; verify JD, company, experience, and salary before applying",
-                     "keywords":  [
-                                      "automation test engineer",
-                                      "test engineer",
-                                      "automation",
-                                      "testng",
-                                      "cucumber"
-                                  ],
-                     "applyType":  "External Apply",
-                     "classificationConfidence":  "Discovery",
-                     "notes":  "LinkedIn public result restored to match the previous ntfy alert style. Verify before applying.",
-                     "azureScore":  45,
-                     "databricksScore":  45,
-                     "modelingScore":  55
-                 },
                  {
                      "id":  "linkedin:4447786474",
                      "company":  " YMinds.AI ",
@@ -70,16 +47,17 @@
                      "modelingScore":  55
                  },
                  {
-                     "id":  "linkedin:4441516567",
-                     "company":  " EduRun Group ",
-                     "role":  "QA Data Engineer",
+                     "id":  "linkedin:4451527230",
+                     "company":  " CIBC India ",
+                     "role":  "Quality Engineer - ETL Testing [T500-28335]",
                      "location":  "Hyderabad, Telangana, India",
-                     "link":  "https://www.linkedin.com/jobs/view/qa-data-engineer-at-edurun-group-4441516567/",
-                     "postedDate":  "1 hour ago",
+                     "link":  "https://www.linkedin.com/jobs/view/quality-engineer-etl-testing-t500-28335-at-cibc-india-4451527230/",
+                     "postedDate":  "5 days ago",
                      "fit":  100,
                      "fitReason":  "LinkedIn public India discovery match from Hyderabad Java QA; verify JD, company, experience, and salary before applying",
                      "keywords":  [
                                       "qa automation",
+                                      "quality engineer",
                                       "automation engineer",
                                       "automation",
                                       "qa",
@@ -136,21 +114,20 @@
                      "modelingScore":  55
                  },
                  {
-                     "id":  "linkedin:4451527230",
-                     "company":  " CIBC India ",
-                     "role":  "Quality Engineer - ETL Testing [T500-28335]",
+                     "id":  "linkedin:4443219988",
+                     "company":  " Zone IT Solutions ",
+                     "role":  "ETL Databricks Testing Engineer",
                      "location":  "Hyderabad, Telangana, India",
-                     "link":  "https://www.linkedin.com/jobs/view/quality-engineer-etl-testing-t500-28335-at-cibc-india-4451527230/",
+                     "link":  "https://www.linkedin.com/jobs/view/etl-databricks-testing-engineer-at-zone-it-solutions-4443219988/",
                      "postedDate":  "5 days ago",
                      "fit":  100,
-                     "fitReason":  "LinkedIn public India discovery match from Hyderabad Java QA; verify JD, company, experience, and salary before applying",
+                     "fitReason":  "LinkedIn public India discovery match from Hyderabad TestNG Cucumber; verify JD, company, experience, and salary before applying",
                      "keywords":  [
-                                      "qa automation",
-                                      "quality engineer",
-                                      "automation engineer",
+                                      "automation test engineer",
+                                      "test engineer",
                                       "automation",
-                                      "qa",
-                                      "java"
+                                      "testng",
+                                      "cucumber"
                                   ],
                      "applyType":  "External Apply",
                      "classificationConfidence":  "Discovery",
@@ -160,17 +137,16 @@
                      "modelingScore":  55
                  },
                  {
-                     "id":  "linkedin:4455711635",
-                     "company":  " CIBC India ",
-                     "role":  "Quality Engineer - ETL Testing [T500-28636]",
+                     "id":  "linkedin:4441516567",
+                     "company":  " EduRun Group ",
+                     "role":  "QA Data Engineer",
                      "location":  "Hyderabad, Telangana, India",
-                     "link":  "https://www.linkedin.com/jobs/view/quality-engineer-etl-testing-t500-28636-at-cibc-india-4455711635/",
-                     "postedDate":  "6 days ago",
+                     "link":  "https://www.linkedin.com/jobs/view/qa-data-engineer-at-edurun-group-4441516567/",
+                     "postedDate":  "1 hour ago",
                      "fit":  100,
                      "fitReason":  "LinkedIn public India discovery match from Hyderabad Java QA; verify JD, company, experience, and salary before applying",
                      "keywords":  [
                                       "qa automation",
-                                      "quality engineer",
                                       "automation engineer",
                                       "automation",
                                       "qa",
@@ -287,6 +263,30 @@
                      "keywords":  [
                                       "qa automation",
                                       "qa engineer",
+                                      "automation engineer",
+                                      "automation",
+                                      "qa",
+                                      "java"
+                                  ],
+                     "applyType":  "External Apply",
+                     "classificationConfidence":  "Discovery",
+                     "notes":  "LinkedIn public result restored to match the previous ntfy alert style. Verify before applying.",
+                     "azureScore":  45,
+                     "databricksScore":  45,
+                     "modelingScore":  55
+                 },
+                 {
+                     "id":  "linkedin:4455711635",
+                     "company":  " CIBC India ",
+                     "role":  "Quality Engineer - ETL Testing [T500-28636]",
+                     "location":  "Hyderabad, Telangana, India",
+                     "link":  "https://www.linkedin.com/jobs/view/quality-engineer-etl-testing-t500-28636-at-cibc-india-4455711635/",
+                     "postedDate":  "6 days ago",
+                     "fit":  100,
+                     "fitReason":  "LinkedIn public India discovery match from Hyderabad Java QA; verify JD, company, experience, and salary before applying",
+                     "keywords":  [
+                                      "qa automation",
+                                      "quality engineer",
                                       "automation engineer",
                                       "automation",
                                       "qa",
