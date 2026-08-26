@@ -1,29 +1,6 @@
 ﻿{
-    "updatedAt":  "2026-08-25T22:51:13+00:00",
+    "updatedAt":  "2026-08-26T02:03:30+00:00",
     "jobs":  [
-                 {
-                     "id":  "linkedin:4441516567",
-                     "company":  " EduRun Group ",
-                     "role":  "QA Data Engineer",
-                     "location":  "Hyderabad, Telangana, India",
-                     "link":  "https://www.linkedin.com/jobs/view/qa-data-engineer-at-edurun-group-4441516567/",
-                     "postedDate":  "1 hour ago",
-                     "fit":  100,
-                     "fitReason":  "LinkedIn public India discovery match from Hyderabad Java QA; verify JD, company, experience, and salary before applying",
-                     "keywords":  [
-                                      "qa automation",
-                                      "automation engineer",
-                                      "automation",
-                                      "qa",
-                                      "java"
-                                  ],
-                     "applyType":  "External Apply",
-                     "classificationConfidence":  "Discovery",
-                     "notes":  "LinkedIn public result restored to match the previous ntfy alert style. Verify before applying.",
-                     "azureScore":  45,
-                     "databricksScore":  45,
-                     "modelingScore":  55
-                 },
                  {
                      "id":  "linkedin:4438422648",
                      "company":  " Virtusa ",
@@ -68,19 +45,20 @@
                      "modelingScore":  55
                  },
                  {
-                     "id":  "linkedin:4447786474",
-                     "company":  " YMinds.AI ",
-                     "role":  "Data QA Engineer – Snowflake, ETL/ELT \u0026 Automation Testing (3-5 Years) | Bangalore | Immediate Joiners Only",
-                     "location":  "Bengaluru, Karnataka, India",
-                     "link":  "https://www.linkedin.com/jobs/view/data-qa-engineer-%E2%80%93-snowflake-etl-elt-automation-testing-3-5-years-bangalore-immediate-joiners-only-at-yminds-ai-4447786474/",
-                     "postedDate":  "1 day ago",
+                     "id":  "linkedin:4443219988",
+                     "company":  " Zone IT Solutions ",
+                     "role":  "ETL Databricks Testing Engineer",
+                     "location":  "Hyderabad, Telangana, India",
+                     "link":  "https://www.linkedin.com/jobs/view/etl-databricks-testing-engineer-at-zone-it-solutions-4443219988/",
+                     "postedDate":  "5 days ago",
                      "fit":  100,
-                     "fitReason":  "LinkedIn public India discovery match from Bengaluru SDET; verify JD, company, experience, and salary before applying",
+                     "fitReason":  "LinkedIn public India discovery match from Hyderabad TestNG Cucumber; verify JD, company, experience, and salary before applying",
                      "keywords":  [
-                                      "sdet",
-                                      "qa engineer",
+                                      "automation test engineer",
+                                      "test engineer",
                                       "automation",
-                                      "qa"
+                                      "testng",
+                                      "cucumber"
                                   ],
                      "applyType":  "External Apply",
                      "classificationConfidence":  "Discovery",
@@ -137,20 +115,20 @@
                      "modelingScore":  55
                  },
                  {
-                     "id":  "linkedin:4443219988",
-                     "company":  " Zone IT Solutions ",
-                     "role":  "ETL Databricks Testing Engineer",
+                     "id":  "linkedin:4441516567",
+                     "company":  " EduRun Group ",
+                     "role":  "QA Data Engineer",
                      "location":  "Hyderabad, Telangana, India",
-                     "link":  "https://www.linkedin.com/jobs/view/etl-databricks-testing-engineer-at-zone-it-solutions-4443219988/",
-                     "postedDate":  "5 days ago",
+                     "link":  "https://www.linkedin.com/jobs/view/qa-data-engineer-at-edurun-group-4441516567/",
+                     "postedDate":  "1 hour ago",
                      "fit":  100,
-                     "fitReason":  "LinkedIn public India discovery match from Hyderabad TestNG Cucumber; verify JD, company, experience, and salary before applying",
+                     "fitReason":  "LinkedIn public India discovery match from Hyderabad Java QA; verify JD, company, experience, and salary before applying",
                      "keywords":  [
-                                      "automation test engineer",
-                                      "test engineer",
+                                      "qa automation",
+                                      "automation engineer",
                                       "automation",
-                                      "testng",
-                                      "cucumber"
+                                      "qa",
+                                      "java"
                                   ],
                      "applyType":  "External Apply",
                      "classificationConfidence":  "Discovery",
@@ -160,21 +138,19 @@
                      "modelingScore":  55
                  },
                  {
-                     "id":  "linkedin:4449651430",
-                     "company":  " Sky Systems, Inc. (SkySys) ",
-                     "role":  "QA Engineer – Big Data Products",
-                     "location":  "India",
-                     "link":  "https://www.linkedin.com/jobs/view/qa-engineer-%E2%80%93-big-data-products-at-sky-systems-inc-skysys-4449651430/",
-                     "postedDate":  "5 hours ago",
+                     "id":  "linkedin:4447786474",
+                     "company":  " YMinds.AI ",
+                     "role":  "Data QA Engineer – Snowflake, ETL/ELT \u0026 Automation Testing (3-5 Years) | Bangalore | Immediate Joiners Only",
+                     "location":  "Bengaluru, Karnataka, India",
+                     "link":  "https://www.linkedin.com/jobs/view/data-qa-engineer-%E2%80%93-snowflake-etl-elt-automation-testing-3-5-years-bangalore-immediate-joiners-only-at-yminds-ai-4447786474/",
+                     "postedDate":  "1 day ago",
                      "fit":  100,
-                     "fitReason":  "LinkedIn public India discovery match from India Remote QA Java; verify JD, company, experience, and salary before applying",
+                     "fitReason":  "LinkedIn public India discovery match from Bengaluru SDET; verify JD, company, experience, and salary before applying",
                      "keywords":  [
-                                      "qa automation",
+                                      "sdet",
                                       "qa engineer",
-                                      "automation engineer",
                                       "automation",
-                                      "qa",
-                                      "java"
+                                      "qa"
                                   ],
                      "applyType":  "External Apply",
                      "classificationConfidence":  "Discovery",
@@ -290,6 +266,30 @@
                                       "automation engineer",
                                       "automation",
                                       "selenium",
+                                      "java"
+                                  ],
+                     "applyType":  "External Apply",
+                     "classificationConfidence":  "Discovery",
+                     "notes":  "LinkedIn public result restored to match the previous ntfy alert style. Verify before applying.",
+                     "azureScore":  45,
+                     "databricksScore":  45,
+                     "modelingScore":  55
+                 },
+                 {
+                     "id":  "linkedin:4449651430",
+                     "company":  " Sky Systems, Inc. (SkySys) ",
+                     "role":  "QA Engineer – Big Data Products",
+                     "location":  "India",
+                     "link":  "https://www.linkedin.com/jobs/view/qa-engineer-%E2%80%93-big-data-products-at-sky-systems-inc-skysys-4449651430/",
+                     "postedDate":  "5 hours ago",
+                     "fit":  100,
+                     "fitReason":  "LinkedIn public India discovery match from India Remote QA Java; verify JD, company, experience, and salary before applying",
+                     "keywords":  [
+                                      "qa automation",
+                                      "qa engineer",
+                                      "automation engineer",
+                                      "automation",
+                                      "qa",
                                       "java"
                                   ],
                      "applyType":  "External Apply",
