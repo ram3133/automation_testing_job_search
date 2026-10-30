@@ -1,6 +1,30 @@
 ﻿{
-    "updatedAt":  "2026-10-30T06:02:48+00:00",
+    "updatedAt":  "2026-10-30T13:13:13+00:00",
     "jobs":  [
+                 {
+                     "id":  "linkedin:4449651430",
+                     "company":  " Sky Systems, Inc. (SkySys) ",
+                     "role":  "QA Engineer – Big Data Products",
+                     "location":  "India",
+                     "link":  "https://www.linkedin.com/jobs/view/qa-engineer-%E2%80%93-big-data-products-at-sky-systems-inc-skysys-4449651430/",
+                     "postedDate":  "5 hours ago",
+                     "fit":  100,
+                     "fitReason":  "LinkedIn public India discovery match from India Remote QA Java; verify JD, company, experience, and salary before applying",
+                     "keywords":  [
+                                      "qa automation",
+                                      "qa engineer",
+                                      "automation engineer",
+                                      "automation",
+                                      "qa",
+                                      "java"
+                                  ],
+                     "applyType":  "External Apply",
+                     "classificationConfidence":  "Discovery",
+                     "notes":  "LinkedIn public result restored to match the previous ntfy alert style. Verify before applying.",
+                     "azureScore":  45,
+                     "databricksScore":  45,
+                     "modelingScore":  55
+                 },
                  {
                      "id":  "linkedin:4434727409",
                      "company":  " ORBCOMM ",
@@ -25,19 +49,21 @@
                      "modelingScore":  55
                  },
                  {
-                     "id":  "linkedin:4427329477",
-                     "company":  " UST ",
-                     "role":  "Associate II - Data Engineering",
-                     "location":  "Bengaluru, Karnataka, India",
-                     "link":  "https://www.linkedin.com/jobs/view/associate-ii-data-engineering-at-ust-4427329477/",
-                     "postedDate":  "4 days ago",
+                     "id":  "linkedin:4442996650",
+                     "company":  " HYrEzy Tech Solutions ",
+                     "role":  "QA Automation Engineer - DBT \u0026 ETL Testing - Python and Pytest",
+                     "location":  "Hyderabad, Telangana, India",
+                     "link":  "https://www.linkedin.com/jobs/view/qa-automation-engineer-dbt-etl-testing-python-and-pytest-at-hyrezy-tech-solutions-4442996650/",
+                     "postedDate":  "6 days ago",
                      "fit":  100,
-                     "fitReason":  "LinkedIn public India discovery match from Bengaluru Java Selenium; verify JD, company, experience, and salary before applying",
+                     "fitReason":  "LinkedIn public India discovery match from Hyderabad Java QA; verify JD, company, experience, and salary before applying",
                      "keywords":  [
+                                      "qa automation",
                                       "automation engineer",
                                       "automation",
-                                      "selenium",
-                                      "java"
+                                      "qa",
+                                      "java",
+                                      "python"
                                   ],
                      "applyType":  "External Apply",
                      "classificationConfidence":  "Discovery",
@@ -72,21 +98,17 @@
                      "modelingScore":  55
                  },
                  {
-                     "id":  "linkedin:4449651430",
-                     "company":  " Sky Systems, Inc. (SkySys) ",
-                     "role":  "QA Engineer – Big Data Products",
-                     "location":  "India",
-                     "link":  "https://www.linkedin.com/jobs/view/qa-engineer-%E2%80%93-big-data-products-at-sky-systems-inc-skysys-4449651430/",
-                     "postedDate":  "5 hours ago",
+                     "id":  "linkedin:4438422648",
+                     "company":  " Virtusa ",
+                     "role":  "ETL Tester",
+                     "location":  "Bangalore Urban, Karnataka, India",
+                     "link":  "https://www.linkedin.com/jobs/view/etl-tester-at-virtusa-4438422648/",
+                     "postedDate":  "4 days ago",
                      "fit":  100,
-                     "fitReason":  "LinkedIn public India discovery match from India Remote QA Java; verify JD, company, experience, and salary before applying",
+                     "fitReason":  "LinkedIn public India discovery match from Bengaluru SDET; verify JD, company, experience, and salary before applying",
                      "keywords":  [
-                                      "qa automation",
-                                      "qa engineer",
-                                      "automation engineer",
-                                      "automation",
-                                      "qa",
-                                      "java"
+                                      "sdet",
+                                      "tester"
                                   ],
                      "applyType":  "External Apply",
                      "classificationConfidence":  "Discovery",
@@ -120,21 +142,19 @@
                      "modelingScore":  55
                  },
                  {
-                     "id":  "linkedin:4442996650",
-                     "company":  " HYrEzy Tech Solutions ",
-                     "role":  "QA Automation Engineer - DBT \u0026 ETL Testing - Python and Pytest",
-                     "location":  "Hyderabad, Telangana, India",
-                     "link":  "https://www.linkedin.com/jobs/view/qa-automation-engineer-dbt-etl-testing-python-and-pytest-at-hyrezy-tech-solutions-4442996650/",
-                     "postedDate":  "6 days ago",
+                     "id":  "linkedin:4427329477",
+                     "company":  " UST ",
+                     "role":  "Associate II - Data Engineering",
+                     "location":  "Bengaluru, Karnataka, India",
+                     "link":  "https://www.linkedin.com/jobs/view/associate-ii-data-engineering-at-ust-4427329477/",
+                     "postedDate":  "4 days ago",
                      "fit":  100,
-                     "fitReason":  "LinkedIn public India discovery match from Hyderabad Java QA; verify JD, company, experience, and salary before applying",
+                     "fitReason":  "LinkedIn public India discovery match from Bengaluru Java Selenium; verify JD, company, experience, and salary before applying",
                      "keywords":  [
-                                      "qa automation",
                                       "automation engineer",
                                       "automation",
-                                      "qa",
-                                      "java",
-                                      "python"
+                                      "selenium",
+                                      "java"
                                   ],
                      "applyType":  "External Apply",
                      "classificationConfidence":  "Discovery",
@@ -168,17 +188,20 @@
                      "modelingScore":  55
                  },
                  {
-                     "id":  "linkedin:4438422648",
-                     "company":  " Virtusa ",
-                     "role":  "ETL Tester",
-                     "location":  "Bangalore Urban, Karnataka, India",
-                     "link":  "https://www.linkedin.com/jobs/view/etl-tester-at-virtusa-4438422648/",
-                     "postedDate":  "4 days ago",
+                     "id":  "linkedin:4441516567",
+                     "company":  " EduRun Group ",
+                     "role":  "QA Data Engineer",
+                     "location":  "Hyderabad, Telangana, India",
+                     "link":  "https://www.linkedin.com/jobs/view/qa-data-engineer-at-edurun-group-4441516567/",
+                     "postedDate":  "1 hour ago",
                      "fit":  100,
-                     "fitReason":  "LinkedIn public India discovery match from Bengaluru SDET; verify JD, company, experience, and salary before applying",
+                     "fitReason":  "LinkedIn public India discovery match from Hyderabad Java QA; verify JD, company, experience, and salary before applying",
                      "keywords":  [
-                                      "sdet",
-                                      "tester"
+                                      "qa automation",
+                                      "automation engineer",
+                                      "automation",
+                                      "qa",
+                                      "java"
                                   ],
                      "applyType":  "External Apply",
                      "classificationConfidence":  "Discovery",
@@ -211,17 +234,17 @@
                      "modelingScore":  55
                  },
                  {
-                     "id":  "linkedin:4448144961",
-                     "company":  " Tek Grove ",
-                     "role":  "ETL QA Engineer - 5+ Years - immediate joiner",
+                     "id":  "linkedin:4451527230",
+                     "company":  " CIBC India ",
+                     "role":  "Quality Engineer - ETL Testing [T500-28335]",
                      "location":  "Hyderabad, Telangana, India",
-                     "link":  "https://www.linkedin.com/jobs/view/etl-qa-engineer-5%2B-years-immediate-joiner-at-tek-grove-4448144961/",
-                     "postedDate":  "2 days ago",
+                     "link":  "https://www.linkedin.com/jobs/view/quality-engineer-etl-testing-t500-28335-at-cibc-india-4451527230/",
+                     "postedDate":  "5 days ago",
                      "fit":  100,
                      "fitReason":  "LinkedIn public India discovery match from Hyderabad Java QA; verify JD, company, experience, and salary before applying",
                      "keywords":  [
                                       "qa automation",
-                                      "qa engineer",
+                                      "quality engineer",
                                       "automation engineer",
                                       "automation",
                                       "qa",
@@ -257,14 +280,14 @@
                      "modelingScore":  55
                  },
                  {
-                     "id":  "linkedin:4441516567",
-                     "company":  " EduRun Group ",
-                     "role":  "QA Data Engineer",
-                     "location":  "Hyderabad, Telangana, India",
-                     "link":  "https://www.linkedin.com/jobs/view/qa-data-engineer-at-edurun-group-4441516567/",
-                     "postedDate":  "1 hour ago",
+                     "id":  "linkedin:4440661475",
+                     "company":  " Raah Techservices ",
+                     "role":  "Senior ETL QA Automation Engineer | 6+ Years",
+                     "location":  "India",
+                     "link":  "https://www.linkedin.com/jobs/view/senior-etl-qa-automation-engineer-6%2B-years-at-raah-techservices-4440661475/",
+                     "postedDate":  "1 day ago",
                      "fit":  100,
-                     "fitReason":  "LinkedIn public India discovery match from Hyderabad Java QA; verify JD, company, experience, and salary before applying",
+                     "fitReason":  "LinkedIn public India discovery match from India Remote QA Java; verify JD, company, experience, and salary before applying",
                      "keywords":  [
                                       "qa automation",
                                       "automation engineer",
@@ -302,17 +325,17 @@
                      "modelingScore":  55
                  },
                  {
-                     "id":  "linkedin:4451527230",
-                     "company":  " CIBC India ",
-                     "role":  "Quality Engineer - ETL Testing [T500-28335]",
+                     "id":  "linkedin:4448144961",
+                     "company":  " Tek Grove ",
+                     "role":  "ETL QA Engineer - 5+ Years - immediate joiner",
                      "location":  "Hyderabad, Telangana, India",
-                     "link":  "https://www.linkedin.com/jobs/view/quality-engineer-etl-testing-t500-28335-at-cibc-india-4451527230/",
-                     "postedDate":  "5 days ago",
+                     "link":  "https://www.linkedin.com/jobs/view/etl-qa-engineer-5%2B-years-immediate-joiner-at-tek-grove-4448144961/",
+                     "postedDate":  "2 days ago",
                      "fit":  100,
                      "fitReason":  "LinkedIn public India discovery match from Hyderabad Java QA; verify JD, company, experience, and salary before applying",
                      "keywords":  [
                                       "qa automation",
-                                      "quality engineer",
+                                      "qa engineer",
                                       "automation engineer",
                                       "automation",
                                       "qa",
@@ -349,48 +372,6 @@
                      "modelingScore":  55
                  },
                  {
-                     "id":  "linkedin:4440661475",
-                     "company":  " Raah Techservices ",
-                     "role":  "Senior ETL QA Automation Engineer | 6+ Years",
-                     "location":  "India",
-                     "link":  "https://www.linkedin.com/jobs/view/senior-etl-qa-automation-engineer-6%2B-years-at-raah-techservices-4440661475/",
-                     "postedDate":  "1 day ago",
-                     "fit":  100,
-                     "fitReason":  "LinkedIn public India discovery match from India Remote QA Java; verify JD, company, experience, and salary before applying",
-                     "keywords":  [
-                                      "qa automation",
-                                      "automation engineer",
-                                      "automation",
-                                      "qa",
-                                      "java"
-                                  ],
-                     "applyType":  "External Apply",
-                     "classificationConfidence":  "Discovery",
-                     "notes":  "LinkedIn public result restored to match the previous ntfy alert style. Verify before applying.",
-                     "azureScore":  45,
-                     "databricksScore":  45,
-                     "modelingScore":  55
-                 },
-                 {
-                     "id":  "near:7647369002",
-                     "company":  "Databricks",
-                     "role":  "Senior Software Engineer (Data Platform)",
-                     "location":  "Bengaluru, India, Bengaluru, India",
-                     "link":  "https://databricks.com/company/careers/open-positions/job?gh_jid=7647369002",
-                     "postedDate":  "Official ATS near-match; verify freshness",
-                     "fit":  68,
-                     "fitReason":  "Tier 2 ATS near-match for Sarath\u0027s profile; verify exact title, stack, seniority, and experience requirement",
-                     "keywords":  [
-                                      "ci/cd"
-                                  ],
-                     "applyType":  "External Apply",
-                     "classificationConfidence":  "Discovery",
-                     "notes":  "Official Databricks careers feed, but it missed one strict gate. Review before applying.",
-                     "azureScore":  45,
-                     "databricksScore":  45,
-                     "modelingScore":  55
-                 },
-                 {
                      "id":  "near:8161047",
                      "company":  "Netskope",
                      "role":  "Sr. DevOps Engineer, Data Platform",
@@ -410,6 +391,25 @@
                      "applyType":  "External Apply",
                      "classificationConfidence":  "Discovery",
                      "notes":  "Official Netskope careers feed, but it missed one strict gate. Review before applying.",
+                     "azureScore":  45,
+                     "databricksScore":  45,
+                     "modelingScore":  55
+                 },
+                 {
+                     "id":  "near:7647369002",
+                     "company":  "Databricks",
+                     "role":  "Senior Software Engineer (Data Platform)",
+                     "location":  "Bengaluru, India, Bengaluru, India",
+                     "link":  "https://databricks.com/company/careers/open-positions/job?gh_jid=7647369002",
+                     "postedDate":  "Official ATS near-match; verify freshness",
+                     "fit":  68,
+                     "fitReason":  "Tier 2 ATS near-match for Sarath\u0027s profile; verify exact title, stack, seniority, and experience requirement",
+                     "keywords":  [
+                                      "ci/cd"
+                                  ],
+                     "applyType":  "External Apply",
+                     "classificationConfidence":  "Discovery",
+                     "notes":  "Official Databricks careers feed, but it missed one strict gate. Review before applying.",
                      "azureScore":  45,
                      "databricksScore":  45,
                      "modelingScore":  55
