@@ -1,5 +1,5 @@
 ﻿{
-    "updatedAt":  "2026-11-26T11:07:09+00:00",
+    "updatedAt":  "2026-11-26T21:44:49+00:00",
     "jobs":  [
                  {
                      "id":  "linkedin:4388860725",
@@ -47,6 +47,30 @@
                      "modelingScore":  55
                  },
                  {
+                     "id":  "linkedin:4455711635",
+                     "company":  " CIBC India ",
+                     "role":  "Quality Engineer - ETL Testing [T500-28636]",
+                     "location":  "Hyderabad, Telangana, India",
+                     "link":  "https://www.linkedin.com/jobs/view/quality-engineer-etl-testing-t500-28636-at-cibc-india-4455711635/",
+                     "postedDate":  "6 days ago",
+                     "fit":  100,
+                     "fitReason":  "LinkedIn public India discovery match from Hyderabad Java QA; verify JD, company, experience, and salary before applying",
+                     "keywords":  [
+                                      "qa automation",
+                                      "quality engineer",
+                                      "automation engineer",
+                                      "automation",
+                                      "qa",
+                                      "java"
+                                  ],
+                     "applyType":  "External Apply",
+                     "classificationConfidence":  "Discovery",
+                     "notes":  "LinkedIn public result restored to match the previous ntfy alert style. Verify before applying.",
+                     "azureScore":  45,
+                     "databricksScore":  45,
+                     "modelingScore":  55
+                 },
+                 {
                      "id":  "linkedin:4448144961",
                      "company":  " Tek Grove ",
                      "role":  "ETL QA Engineer - 5+ Years - immediate joiner",
@@ -71,44 +95,21 @@
                      "modelingScore":  55
                  },
                  {
-                     "id":  "linkedin:4451527230",
-                     "company":  " CIBC India ",
-                     "role":  "Quality Engineer - ETL Testing [T500-28335]",
+                     "id":  "linkedin:4488500676",
+                     "company":  " Infor ",
+                     "role":  "Team Lead, Quality Assurance ( Automation / Playwright / AI / ETL Testing )",
                      "location":  "Hyderabad, Telangana, India",
-                     "link":  "https://www.linkedin.com/jobs/view/quality-engineer-etl-testing-t500-28335-at-cibc-india-4451527230/",
-                     "postedDate":  "5 days ago",
-                     "fit":  100,
-                     "fitReason":  "LinkedIn public India discovery match from Hyderabad Java QA; verify JD, company, experience, and salary before applying",
-                     "keywords":  [
-                                      "qa automation",
-                                      "quality engineer",
-                                      "automation engineer",
-                                      "automation",
-                                      "qa",
-                                      "java"
-                                  ],
-                     "applyType":  "External Apply",
-                     "classificationConfidence":  "Discovery",
-                     "notes":  "LinkedIn public result restored to match the previous ntfy alert style. Verify before applying.",
-                     "azureScore":  45,
-                     "databricksScore":  45,
-                     "modelingScore":  55
-                 },
-                 {
-                     "id":  "linkedin:4455711635",
-                     "company":  " CIBC India ",
-                     "role":  "Quality Engineer - ETL Testing [T500-28636]",
-                     "location":  "Hyderabad, Telangana, India",
-                     "link":  "https://www.linkedin.com/jobs/view/quality-engineer-etl-testing-t500-28636-at-cibc-india-4455711635/",
+                     "link":  "https://www.linkedin.com/jobs/view/team-lead-quality-assurance-automation-playwright-ai-etl-testing-at-infor-4488500676/",
                      "postedDate":  "6 days ago",
                      "fit":  100,
                      "fitReason":  "LinkedIn public India discovery match from Hyderabad Java QA; verify JD, company, experience, and salary before applying",
                      "keywords":  [
                                       "qa automation",
-                                      "quality engineer",
                                       "automation engineer",
                                       "automation",
                                       "qa",
+                                      "quality assurance",
+                                      "playwright",
                                       "java"
                                   ],
                      "applyType":  "External Apply",
@@ -165,6 +166,30 @@
                      "modelingScore":  55
                  },
                  {
+                     "id":  "linkedin:4459549020",
+                     "company":  " Deloitte ",
+                     "role":  "ETL Tester",
+                     "location":  "Hyderabad, Telangana, India",
+                     "link":  "https://www.linkedin.com/jobs/view/etl-tester-at-deloitte-4459549020/",
+                     "postedDate":  "6 days ago",
+                     "fit":  100,
+                     "fitReason":  "LinkedIn public India discovery match from Hyderabad TestNG Cucumber; verify JD, company, experience, and salary before applying",
+                     "keywords":  [
+                                      "automation test engineer",
+                                      "test engineer",
+                                      "automation",
+                                      "tester",
+                                      "testng",
+                                      "cucumber"
+                                  ],
+                     "applyType":  "External Apply",
+                     "classificationConfidence":  "Discovery",
+                     "notes":  "LinkedIn public result restored to match the previous ntfy alert style. Verify before applying.",
+                     "azureScore":  45,
+                     "databricksScore":  45,
+                     "modelingScore":  55
+                 },
+                 {
                      "id":  "linkedin:4483064543",
                      "company":  " SID Information Technologies ",
                      "role":  "Senior QA Engineer / QA Lead – Data Engineering \u0026 Test Automation",
@@ -190,92 +215,20 @@
                      "modelingScore":  55
                  },
                  {
-                     "id":  "linkedin:4488500676",
-                     "company":  " Infor ",
-                     "role":  "Team Lead, Quality Assurance ( Automation / Playwright / AI / ETL Testing )",
+                     "id":  "linkedin:4443219988",
+                     "company":  " Zone IT Solutions ",
+                     "role":  "ETL Databricks Testing Engineer",
                      "location":  "Hyderabad, Telangana, India",
-                     "link":  "https://www.linkedin.com/jobs/view/team-lead-quality-assurance-automation-playwright-ai-etl-testing-at-infor-4488500676/",
-                     "postedDate":  "6 days ago",
-                     "fit":  100,
-                     "fitReason":  "LinkedIn public India discovery match from Hyderabad Java QA; verify JD, company, experience, and salary before applying",
-                     "keywords":  [
-                                      "qa automation",
-                                      "automation engineer",
-                                      "automation",
-                                      "qa",
-                                      "quality assurance",
-                                      "playwright",
-                                      "java"
-                                  ],
-                     "applyType":  "External Apply",
-                     "classificationConfidence":  "Discovery",
-                     "notes":  "LinkedIn public result restored to match the previous ntfy alert style. Verify before applying.",
-                     "azureScore":  45,
-                     "databricksScore":  45,
-                     "modelingScore":  55
-                 },
-                 {
-                     "id":  "linkedin:4459549020",
-                     "company":  " Deloitte ",
-                     "role":  "ETL Tester",
-                     "location":  "Hyderabad, Telangana, India",
-                     "link":  "https://www.linkedin.com/jobs/view/etl-tester-at-deloitte-4459549020/",
-                     "postedDate":  "6 days ago",
+                     "link":  "https://www.linkedin.com/jobs/view/etl-databricks-testing-engineer-at-zone-it-solutions-4443219988/",
+                     "postedDate":  "5 days ago",
                      "fit":  100,
                      "fitReason":  "LinkedIn public India discovery match from Hyderabad TestNG Cucumber; verify JD, company, experience, and salary before applying",
                      "keywords":  [
                                       "automation test engineer",
                                       "test engineer",
                                       "automation",
-                                      "tester",
                                       "testng",
                                       "cucumber"
-                                  ],
-                     "applyType":  "External Apply",
-                     "classificationConfidence":  "Discovery",
-                     "notes":  "LinkedIn public result restored to match the previous ntfy alert style. Verify before applying.",
-                     "azureScore":  45,
-                     "databricksScore":  45,
-                     "modelingScore":  55
-                 },
-                 {
-                     "id":  "linkedin:4447786474",
-                     "company":  " YMinds.AI ",
-                     "role":  "Data QA Engineer – Snowflake, ETL/ELT \u0026 Automation Testing (3-5 Years) | Bangalore | Immediate Joiners Only",
-                     "location":  "Bengaluru, Karnataka, India",
-                     "link":  "https://www.linkedin.com/jobs/view/data-qa-engineer-%E2%80%93-snowflake-etl-elt-automation-testing-3-5-years-bangalore-immediate-joiners-only-at-yminds-ai-4447786474/",
-                     "postedDate":  "1 day ago",
-                     "fit":  100,
-                     "fitReason":  "LinkedIn public India discovery match from Bengaluru SDET; verify JD, company, experience, and salary before applying",
-                     "keywords":  [
-                                      "sdet",
-                                      "qa engineer",
-                                      "automation",
-                                      "qa"
-                                  ],
-                     "applyType":  "External Apply",
-                     "classificationConfidence":  "Discovery",
-                     "notes":  "LinkedIn public result restored to match the previous ntfy alert style. Verify before applying.",
-                     "azureScore":  45,
-                     "databricksScore":  45,
-                     "modelingScore":  55
-                 },
-                 {
-                     "id":  "linkedin:4442996650",
-                     "company":  " HYrEzy Tech Solutions ",
-                     "role":  "QA Automation Engineer - DBT \u0026 ETL Testing - Python and Pytest",
-                     "location":  "Hyderabad, Telangana, India",
-                     "link":  "https://www.linkedin.com/jobs/view/qa-automation-engineer-dbt-etl-testing-python-and-pytest-at-hyrezy-tech-solutions-4442996650/",
-                     "postedDate":  "6 days ago",
-                     "fit":  100,
-                     "fitReason":  "LinkedIn public India discovery match from Hyderabad Java QA; verify JD, company, experience, and salary before applying",
-                     "keywords":  [
-                                      "qa automation",
-                                      "automation engineer",
-                                      "automation",
-                                      "qa",
-                                      "java",
-                                      "python"
                                   ],
                      "applyType":  "External Apply",
                      "classificationConfidence":  "Discovery",
@@ -300,6 +253,28 @@
                                       "automation",
                                       "qa",
                                       "java"
+                                  ],
+                     "applyType":  "External Apply",
+                     "classificationConfidence":  "Discovery",
+                     "notes":  "LinkedIn public result restored to match the previous ntfy alert style. Verify before applying.",
+                     "azureScore":  45,
+                     "databricksScore":  45,
+                     "modelingScore":  55
+                 },
+                 {
+                     "id":  "linkedin:4447786474",
+                     "company":  " YMinds.AI ",
+                     "role":  "Data QA Engineer – Snowflake, ETL/ELT \u0026 Automation Testing (3-5 Years) | Bangalore | Immediate Joiners Only",
+                     "location":  "Bengaluru, Karnataka, India",
+                     "link":  "https://www.linkedin.com/jobs/view/data-qa-engineer-%E2%80%93-snowflake-etl-elt-automation-testing-3-5-years-bangalore-immediate-joiners-only-at-yminds-ai-4447786474/",
+                     "postedDate":  "1 day ago",
+                     "fit":  100,
+                     "fitReason":  "LinkedIn public India discovery match from Bengaluru SDET; verify JD, company, experience, and salary before applying",
+                     "keywords":  [
+                                      "sdet",
+                                      "qa engineer",
+                                      "automation",
+                                      "qa"
                                   ],
                      "applyType":  "External Apply",
                      "classificationConfidence":  "Discovery",
@@ -352,6 +327,30 @@
                      "modelingScore":  55
                  },
                  {
+                     "id":  "linkedin:4451527230",
+                     "company":  " CIBC India ",
+                     "role":  "Quality Engineer - ETL Testing [T500-28335]",
+                     "location":  "Hyderabad, Telangana, India",
+                     "link":  "https://www.linkedin.com/jobs/view/quality-engineer-etl-testing-t500-28335-at-cibc-india-4451527230/",
+                     "postedDate":  "5 days ago",
+                     "fit":  100,
+                     "fitReason":  "LinkedIn public India discovery match from Hyderabad Java QA; verify JD, company, experience, and salary before applying",
+                     "keywords":  [
+                                      "qa automation",
+                                      "quality engineer",
+                                      "automation engineer",
+                                      "automation",
+                                      "qa",
+                                      "java"
+                                  ],
+                     "applyType":  "External Apply",
+                     "classificationConfidence":  "Discovery",
+                     "notes":  "LinkedIn public result restored to match the previous ntfy alert style. Verify before applying.",
+                     "azureScore":  45,
+                     "databricksScore":  45,
+                     "modelingScore":  55
+                 },
+                 {
                      "id":  "linkedin:4475553277",
                      "company":  " Bizoforce - The Innovation Platform Accelerating Digital Solutions for Enterprises ",
                      "role":  "ETL Testing - Java selenium Automation",
@@ -377,20 +376,43 @@
                      "modelingScore":  55
                  },
                  {
-                     "id":  "linkedin:4443219988",
-                     "company":  " Zone IT Solutions ",
-                     "role":  "ETL Databricks Testing Engineer",
+                     "id":  "linkedin:4442996650",
+                     "company":  " HYrEzy Tech Solutions ",
+                     "role":  "QA Automation Engineer - DBT \u0026 ETL Testing - Python and Pytest",
                      "location":  "Hyderabad, Telangana, India",
-                     "link":  "https://www.linkedin.com/jobs/view/etl-databricks-testing-engineer-at-zone-it-solutions-4443219988/",
-                     "postedDate":  "5 days ago",
+                     "link":  "https://www.linkedin.com/jobs/view/qa-automation-engineer-dbt-etl-testing-python-and-pytest-at-hyrezy-tech-solutions-4442996650/",
+                     "postedDate":  "6 days ago",
                      "fit":  100,
-                     "fitReason":  "LinkedIn public India discovery match from Hyderabad TestNG Cucumber; verify JD, company, experience, and salary before applying",
+                     "fitReason":  "LinkedIn public India discovery match from Hyderabad Java QA; verify JD, company, experience, and salary before applying",
                      "keywords":  [
-                                      "automation test engineer",
-                                      "test engineer",
+                                      "qa automation",
+                                      "automation engineer",
                                       "automation",
-                                      "testng",
-                                      "cucumber"
+                                      "qa",
+                                      "java",
+                                      "python"
+                                  ],
+                     "applyType":  "External Apply",
+                     "classificationConfidence":  "Discovery",
+                     "notes":  "LinkedIn public result restored to match the previous ntfy alert style. Verify before applying.",
+                     "azureScore":  45,
+                     "databricksScore":  45,
+                     "modelingScore":  55
+                 },
+                 {
+                     "id":  "linkedin:4427329477",
+                     "company":  " UST ",
+                     "role":  "Associate II - Data Engineering",
+                     "location":  "Bengaluru, Karnataka, India",
+                     "link":  "https://www.linkedin.com/jobs/view/associate-ii-data-engineering-at-ust-4427329477/",
+                     "postedDate":  "4 days ago",
+                     "fit":  100,
+                     "fitReason":  "LinkedIn public India discovery match from Bengaluru Java Selenium; verify JD, company, experience, and salary before applying",
+                     "keywords":  [
+                                      "automation engineer",
+                                      "automation",
+                                      "selenium",
+                                      "java"
                                   ],
                      "applyType":  "External Apply",
                      "classificationConfidence":  "Discovery",
@@ -414,28 +436,6 @@
                                       "automation",
                                       "testng",
                                       "cucumber"
-                                  ],
-                     "applyType":  "External Apply",
-                     "classificationConfidence":  "Discovery",
-                     "notes":  "LinkedIn public result restored to match the previous ntfy alert style. Verify before applying.",
-                     "azureScore":  45,
-                     "databricksScore":  45,
-                     "modelingScore":  55
-                 },
-                 {
-                     "id":  "linkedin:4427329477",
-                     "company":  " UST ",
-                     "role":  "Associate II - Data Engineering",
-                     "location":  "Bengaluru, Karnataka, India",
-                     "link":  "https://www.linkedin.com/jobs/view/associate-ii-data-engineering-at-ust-4427329477/",
-                     "postedDate":  "4 days ago",
-                     "fit":  100,
-                     "fitReason":  "LinkedIn public India discovery match from Bengaluru Java Selenium; verify JD, company, experience, and salary before applying",
-                     "keywords":  [
-                                      "automation engineer",
-                                      "automation",
-                                      "selenium",
-                                      "java"
                                   ],
                      "applyType":  "External Apply",
                      "classificationConfidence":  "Discovery",
@@ -493,7 +493,7 @@
                      "role":  "QA - ETL Automation, Senior Associate",
                      "location":  "Hyderabad, Telangana, India",
                      "link":  "https://www.linkedin.com/jobs/view/qa-etl-automation-senior-associate-at-state-street-4494638044/",
-                     "postedDate":  "22 hours ago",
+                     "postedDate":  "1 day ago",
                      "fit":  100,
                      "fitReason":  "LinkedIn public India discovery match from Hyderabad TestNG Cucumber; verify JD, company, experience, and salary before applying",
                      "keywords":  [
