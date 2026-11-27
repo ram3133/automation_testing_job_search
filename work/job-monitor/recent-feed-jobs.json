@@ -1,5 +1,5 @@
 ﻿{
-    "updatedAt":  "2026-11-27T14:02:16+00:00",
+    "updatedAt":  "2026-11-27T22:47:31+00:00",
     "jobs":  [
                  {
                      "id":  "linkedin:4388860725",
@@ -445,6 +445,30 @@
                      "modelingScore":  55
                  },
                  {
+                     "id":  "linkedin:4494638044",
+                     "company":  " State Street ",
+                     "role":  "QA - ETL Automation, Senior Associate",
+                     "location":  "Hyderabad, Telangana, India",
+                     "link":  "https://www.linkedin.com/jobs/view/qa-etl-automation-senior-associate-at-state-street-4494638044/",
+                     "postedDate":  "2 days ago",
+                     "fit":  100,
+                     "fitReason":  "LinkedIn public India discovery match from Hyderabad TestNG Cucumber; verify JD, company, experience, and salary before applying",
+                     "keywords":  [
+                                      "automation test engineer",
+                                      "test engineer",
+                                      "automation",
+                                      "qa",
+                                      "testng",
+                                      "cucumber"
+                                  ],
+                     "applyType":  "External Apply",
+                     "classificationConfidence":  "Discovery",
+                     "notes":  "LinkedIn public result restored to match the previous ntfy alert style. Verify before applying.",
+                     "azureScore":  45,
+                     "databricksScore":  45,
+                     "modelingScore":  55
+                 },
+                 {
                      "id":  "near:8161047",
                      "company":  "Netskope",
                      "role":  "Sr. DevOps Engineer, Data Platform",
@@ -483,30 +507,6 @@
                      "applyType":  "External Apply",
                      "classificationConfidence":  "Discovery",
                      "notes":  "Official Databricks careers feed, but it missed one strict gate. Review before applying.",
-                     "azureScore":  45,
-                     "databricksScore":  45,
-                     "modelingScore":  55
-                 },
-                 {
-                     "id":  "linkedin:4494638044",
-                     "company":  " State Street ",
-                     "role":  "QA - ETL Automation, Senior Associate",
-                     "location":  "Hyderabad, Telangana, India",
-                     "link":  "https://www.linkedin.com/jobs/view/qa-etl-automation-senior-associate-at-state-street-4494638044/",
-                     "postedDate":  "2 days ago",
-                     "fit":  100,
-                     "fitReason":  "LinkedIn public India discovery match from Hyderabad TestNG Cucumber; verify JD, company, experience, and salary before applying",
-                     "keywords":  [
-                                      "automation test engineer",
-                                      "test engineer",
-                                      "automation",
-                                      "qa",
-                                      "testng",
-                                      "cucumber"
-                                  ],
-                     "applyType":  "External Apply",
-                     "classificationConfidence":  "Discovery",
-                     "notes":  "LinkedIn public result restored to match the previous ntfy alert style. Verify before applying.",
                      "azureScore":  45,
                      "databricksScore":  45,
                      "modelingScore":  55
